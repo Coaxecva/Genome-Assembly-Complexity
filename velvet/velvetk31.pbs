@@ -1,20 +1,10 @@
-#!/bin/bash
-#
-#PBS -q express
-#PBS -j oe
-#PBS -l nodes=1:ppn=12
-#PBS -l walltime=1:00:00
-cd $PBS_O_WORKDIR
 
-module load velvet/1.2.10
-
-export GROUPNUMBER=1
 export K=31
-export DATADIR=../data/group${GROUPNUMBER}
+export DATADIR=./test
 export OUTPUTDIR=velvet${K}
 
-velveth $OUTPUTDIR  ${K}  -fastq -shortPaired -separate $DATADIR/PE-350.1.fastq $DATADIR/PE-350.2.fastq  
+./velvet/velveth $OUTPUTDIR  ${K}  -fastq -shortPaired  $DATADIR/PE-350.1.fastq $DATADIR/PE-350.2.fastq  
 
-velvetg $OUTPUTDIR  -cov_cutoff auto -exp_cov auto -scaffolding yes 
+./velvet/velvetg $OUTPUTDIR  -cov_cutoff auto -exp_cov auto -scaffolding yes 
 
 
