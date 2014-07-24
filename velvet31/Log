@@ -1,0 +1,64 @@
+Wed Jul 23 15:12:47 2014
+ /opt/velvet/1.2.03/velveth velvet31 31 -fastq -shortPaired -separate data/group1/PE-350.1.fastq data/group1/PE-350.2.fastq
+Version 1.2.03
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Jul 23 15:13:02 2014
+ /opt/velvet/1.2.03/velveth velvet31 31 -fastq -shortPaired
+Version 1.2.03
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Jul 23 15:16:09 2014
+ /opt/velvet/1.2.03/velveth velvet31 31 -fastq -shortPaired data/group1/PE-350.1.fastq data/group1/PE-350.2.fastq
+Version 1.2.03
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Jul 23 15:26:16 2014
+ /opt/velvet/1.2.03/velvetg velvet31 -cov_cutoff auto -exp_cov auto -scaffolding yes
+Version 1.2.03
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 19.182049
+Final graph has 231 nodes and n50 of 15903, max 42574, total 563010, using 190162/190768 reads
+Wed Jul 23 16:38:41 2014
+ ./velvet/velveth velvet31 31 -fastq -shortPaired ./test/PE-350.1.fastq ./test/PE-350.2.fastq
+Version 1.2.03
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Jul 23 16:38:47 2014
+ ./velvet/velvetg velvet31 -cov_cutoff auto -exp_cov auto -scaffolding yes
+Version 1.2.03
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 19.575692
+Final graph has 99 nodes and n50 of 415659, max 415659, total 433142, using 147414/148198 reads
