@@ -1,0 +1,1638 @@
+>gi|15642775|ref|NC_000853.1| Thermotoga maritima MSB8 chromosome, complete genome
+>gi|14518450|ref|NC_000868.1| Pyrococcus abyssi GE5 chromosome, complete genome
+>gi|16329170|ref|NC_000911.1| Synechocystis sp. PCC 6803 chromosome, complete genome
+>gi|255767010|ref|NC_000914.2| Sinorhizobium fredii NGR234 plasmid pNGR234a, complete sequence
+>gi|15638995|ref|NC_000919.1| Treponema pallidum subsp. pallidum str. Nichols chromosome, complete genome
+>gi|14589963|ref|NC_000961.1| Pyrococcus horikoshii OT3 chromosome, complete genome
+>gi|15603881|ref|NC_000963.1| Rickettsia prowazekii str. Madrid E chromosome, complete genome
+>gi|10954629|ref|NC_001399.1| Ralstonia solanacearum M4S plasmid pJTPS1, complete sequence
+>gi|10954552|ref|NC_001773.1| Pyrococcus abyssi GE5 plasmid pGT5, complete sequence
+>gi|13357558|ref|NC_002162.1| Ureaplasma parvum serovar 3 str. ATCC 700970 chromosome, complete genome
+>gi|57014152|ref|NC_002488.3| Xylella fastidiosa 9a5c chromosome, complete genome
+>gi|56968324|ref|NC_002489.3| Xylella fastidiosa 9a5c plasmid pXF1.3, complete sequence
+>gi|10956711|ref|NC_002490.1| Xylella fastidiosa 9a5c plasmid pXF51, complete sequence
+>gi|15640032|ref|NC_002505.1| Vibrio cholerae O1 biovar El Tor str. N16961 chromosome I, complete sequence
+>gi|15600771|ref|NC_002506.1| Vibrio cholerae O1 biovar El Tor str. N16961 chromosome II, complete sequence
+>gi|110645304|ref|NC_002516.2| Pseudomonas aeruginosa PAO1 chromosome, complete genome
+>gi|16081186|ref|NC_002578.1| Thermoplasma acidophilum DSM 1728 chromosome, complete genome
+>gi|13540831|ref|NC_002689.2| Thermoplasma volcanium GSS1 chromosome, complete genome
+>gi|15674250|ref|NC_002737.1| Streptococcus pyogenes SF370 chromosome, complete genome
+>gi|29165615|ref|NC_002745.2| Staphylococcus aureus subsp. aureus N315 chromosome, complete genome
+>gi|15896971|ref|NC_002754.1| Sulfolobus solfataricus P2 chromosome, complete genome
+>gi|57634611|ref|NC_002758.2| Staphylococcus aureus subsp. aureus Mu50 chromosome, complete genome
+>gi|14141823|ref|NC_002774.1| Staphylococcus aureus subsp. aureus Mu50 plasmid VRSAp, complete sequence
+>gi|26986745|ref|NC_002947.3| Pseudomonas putida KT2440 chromosome, complete genome
+>gi|57650036|ref|NC_002951.2| Staphylococcus aureus subsp. aureus COL chromosome, complete genome
+>gi|49482253|ref|NC_002952.2| Staphylococcus aureus subsp. aureus MRSA252 chromosome, complete genome
+>gi|49484912|ref|NC_002953.3| Staphylococcus aureus subsp. aureus MSSA476 chromosome, complete genome
+>gi|42516522|ref|NC_002967.9| Treponema denticola ATCC 35405 chromosome, complete genome
+>gi|57865352|ref|NC_002976.3| Staphylococcus epidermidis RP62A, complete genome
+>gi|42519920|ref|NC_002978.6| Wolbachia endosymbiont of Drosophila melanogaster, complete genome
+>gi|194172857|ref|NC_003028.3| Streptococcus pneumoniae TIGR4 chromosome, complete genome
+>gi|16262453|ref|NC_003037.1| Sinorhizobium meliloti 1021 plasmid pSymA, complete sequence
+>gi|15963753|ref|NC_003047.1| Sinorhizobium meliloti 1021 chromosome, complete genome
+>gi|16263748|ref|NC_003078.1| Sinorhizobium meliloti 1021 plasmid pSymB, complete sequence
+>gi|15902044|ref|NC_003098.1| Streptococcus pneumoniae R6 chromosome, complete genome
+>gi|15891923|ref|NC_003103.1| Rickettsia conorii str. Malish 7, complete genome
+>gi|24473558|ref|NC_003106.2| Sulfolobus tokodaii str. 7 chromosome, complete genome
+>gi|16082691|ref|NC_003131.1| Yersinia pestis CO92 plasmid pCD1, complete sequence
+>gi|16082679|ref|NC_003132.1| Yersinia pestis CO92 plasmid pPCP1, complete sequence
+>gi|16082781|ref|NC_003134.1| Yersinia pestis CO92 plasmid pMT1, complete sequence
+>gi|16119200|ref|NC_003140.1| Staphylococcus aureus subsp. aureus N315 plasmid pN315, complete sequence
+>gi|16120353|ref|NC_003143.1| Yersinia pestis CO92 chromosome, complete genome
+>gi|162960844|ref|NC_003155.4| Streptomyces avermitilis MA-4680, complete genome
+>gi|16763390|ref|NC_003197.1| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome, complete genome
+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+>gi|17233403|ref|NC_003277.1| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 plasmid pSLT, complete sequence
+>gi|17544719|ref|NC_003295.1| Ralstonia solanacearum GMI1000 chromosome, complete genome
+>gi|17548221|ref|NC_003296.1| Ralstonia solanacearum GMI1000 plasmid pGMI1000MP, complete sequence
+>gi|18311643|ref|NC_003364.1| Pyrobaculum aerophilum str. IM2 chromosome, complete genome
+>gi|18466424|ref|NC_003384.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18 plasmid pHCM1, complete sequence
+>gi|18466665|ref|NC_003385.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18 plasmid pHCM2, complete sequence
+>gi|18976372|ref|NC_003413.1| Pyrococcus furiosus DSM 3638 chromosome, complete genome
+>gi|19225058|ref|NC_003425.1| Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis plasmid pWb1, complete sequence
+>gi|19745201|ref|NC_003485.1| Streptococcus pyogenes MGAS8232 chromosome, complete genome
+>gi|20806542|ref|NC_003869.1| Thermoanaerobacter tengcongensis MB4 chromosome, complete genome
+>gi|32141095|ref|NC_003888.3| Streptomyces coelicolor A3(2) chromosome, complete genome
+>gi|21229478|ref|NC_003902.1| Xanthomonas campestris pv. campestris str. ATCC 33913 chromosome, complete genome
+>gi|21233999|ref|NC_003903.1| Streptomyces coelicolor A3(2) plasmid SCP1, complete sequence
+>gi|21233964|ref|NC_003904.1| Streptomyces coelicolor A3(2) plasmid SCP2, complete sequence
+>gi|564825954|ref|NC_003911.12| Ruegeria pomeroyi DSS-3, complete genome
+>gi|21240774|ref|NC_003919.1| Xanthomonas axonopodis pv. citri str. 306 chromosome, complete genome
+>gi|58033143|ref|NC_003921.3| Xanthomonas axonopodis pv. citri str. 306 plasmid pXAC33, complete sequence
+>gi|21264228|ref|NC_003922.1| Xanthomonas axonopodis pv. citri str. 306 plasmid pXAC64, complete sequence
+>gi|21281729|ref|NC_003923.1| Staphylococcus aureus subsp. aureus MW2, complete genome
+>gi|89255298|ref|NC_004041.2| Rhizobium etli CFN 42 symbiotic plasmid p42d, complete sequence
+>gi|21909536|ref|NC_004070.1| Streptococcus pyogenes MGAS315 chromosome, complete genome
+>gi|22123922|ref|NC_004088.1| Yersinia pestis KIM10+ chromosome, complete genome
+>gi|22297544|ref|NC_004113.1| Thermosynechococcus elongatus BP-1 chromosome, complete genome
+>gi|22536185|ref|NC_004116.1| Streptococcus agalactiae 2603V/R chromosome, complete genome
+>gi|70728250|ref|NC_004129.6| Pseudomonas protegens Pf-5 chromosome, complete genome
+>gi|344915202|ref|NC_004337.2| Shigella flexneri 2a str. 301 chromosome, complete genome
+>gi|32490749|ref|NC_004344.2| Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis chromosome, complete genome
+>gi|414561716|ref|NC_004347.2| Shewanella oneidensis MR-1 chromosome, complete genome
+>gi|24376231|ref|NC_004349.1| Shewanella oneidensis MR-1 plasmid megaplasmid, complete sequence
+>gi|347750429|ref|NC_004350.2| Streptococcus mutans UA159 chromosome, complete genome
+>gi|25010075|ref|NC_004368.1| Streptococcus agalactiae NEM316, complete genome
+>gi|326423644|ref|NC_004459.3| Vibrio vulnificus CMCP6 chromosome I, complete sequence
+>gi|326424156|ref|NC_004460.2| Vibrio vulnificus CMCP6 chromosome II, complete sequence
+>gi|27466918|ref|NC_004461.1| Staphylococcus epidermidis ATCC 12228 chromosome, complete genome
+>gi|28572175|ref|NC_004551.1| Tropheryma whipplei TW08/27, complete genome
+>gi|28191370|ref|NC_004554.1| Xylella fastidiosa Temecula1 plasmid pXFPD1.3, complete sequence
+>gi|28197945|ref|NC_004556.1| Xylella fastidiosa Temecula1 chromosome, complete genome
+>gi|32447382|ref|NC_004572.3| Tropheryma whipplei str. Twist, complete genome
+>gi|28867243|ref|NC_004578.1| Pseudomonas syringae pv. tomato str. DC3000 chromosome, complete genome
+>gi|28896774|ref|NC_004603.1| Vibrio parahaemolyticus RIMD 2210633 chromosome 1, complete sequence
+>gi|28899855|ref|NC_004605.1| Vibrio parahaemolyticus RIMD 2210633 chromosome 2, complete sequence
+>gi|28894912|ref|NC_004606.1| Streptococcus pyogenes SSI-1 chromosome, complete genome
+>gi|29140543|ref|NC_004631.1| Salmonella enterica subsp. enterica serovar Typhi str. Ty2 chromosome, complete genome
+>gi|29171546|ref|NC_004632.1| Pseudomonas syringae pv. tomato str. DC3000 plasmid pDC3000B, complete sequence
+>gi|29171478|ref|NC_004633.1| Pseudomonas syringae pv. tomato str. DC3000 plasmid pDC3000A, complete sequence
+>gi|29826443|ref|NC_004719.1| Streptomyces avermitilis MA-4680 plasmid SAP1, complete sequence
+>gi|30061571|ref|NC_004741.1| Shigella flexneri 2a str. 2457T, complete genome
+>gi|31795333|ref|NC_004838.1| Yersinia pestis KIM plasmid pMT-1, complete sequence
+>gi|31983523|ref|NC_004851.1| Shigella flexneri 2a str. 301 plasmid pCP301, complete sequence
+>gi|32470520|ref|NC_005003.1| Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-06, complete sequence
+>gi|32470532|ref|NC_005004.1| Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-05, complete sequence
+>gi|32470555|ref|NC_005005.1| Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-04, complete sequence
+>gi|32470572|ref|NC_005006.1| Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-03, complete sequence
+>gi|32470581|ref|NC_005007.1| Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-02, complete sequence
+>gi|32470588|ref|NC_005008.1| Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-01, complete sequence
+>gi|32470666|ref|NC_005027.1| Rhodopirellula baltica SH 1 chromosome, complete genome
+>gi|33864539|ref|NC_005070.1| Synechococcus sp. WH 8102, complete genome
+>gi|34556458|ref|NC_005090.1| Wolinella succinogenes DSM 1740 chromosome, complete genome
+>gi|37595821|ref|NC_005128.1| Vibrio vulnificus YJ016 plasmid pYJ016, complete sequence
+>gi|37678184|ref|NC_005139.1| Vibrio vulnificus YJ016 chromosome I, complete sequence
+>gi|37675660|ref|NC_005140.1| Vibrio vulnificus YJ016 chromosome II, complete sequence
+>gi|38505535|ref|NC_005229.1| Synechocystis sp. PCC 6803 plasmid pSYSM, complete sequence
+>gi|38505668|ref|NC_005230.1| Synechocystis sp. PCC 6803 plasmid pSYSA, complete sequence
+>gi|38505775|ref|NC_005231.1| Synechocystis sp. PCC 6803 plasmid pSYSG, complete sequence
+>gi|38505825|ref|NC_005232.1| Synechocystis sp. PCC 6803 plasmid pSYSX, complete sequence
+>gi|38637668|ref|NC_005241.1| Ralstonia eutropha H16 megaplasmid pHG1, complete sequence
+>gi|42632299|ref|NC_005244.2| Pseudomonas sp. ND6 plasmid pND6-1, complete sequence
+>gi|39933080|ref|NC_005296.1| Rhodopseudomonas palustris CGA009 chromosome, complete genome
+>gi|39840937|ref|NC_005297.1| Rhodopseudomonas palustris CGA009 plasmid pRPA, complete sequence
+>gi|71733195|ref|NC_005773.3| Pseudomonas syringae pv. phaseolicola 1448A chromosome, complete genome
+>gi|45439865|ref|NC_005810.1| Yersinia pestis biovar Microtus str. 91001 chromosome, complete genome
+>gi|45478502|ref|NC_005813.1| Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence
+>gi|45476499|ref|NC_005814.1| Yersinia pestis biovar Microtus str. 91001 plasmid pCRY, complete sequence
+>gi|45478588|ref|NC_005815.1| Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence
+>gi|45478711|ref|NC_005816.1| Yersinia pestis biovar Microtus str. 91001 plasmid pPCP1, complete sequence
+>gi|46198308|ref|NC_005835.1| Thermus thermophilus HB27, complete genome
+>gi|46255071|ref|NC_005838.1| Thermus thermophilus HB27 plasmid pTT27, complete sequence
+>gi|49398098|ref|NC_005951.1| Staphylococcus aureus subsp. aureus MSSA476 plasmid pSAS, complete sequence
+>gi|50913346|ref|NC_006086.1| Streptococcus pyogenes MGAS10394 chromosome, complete genome
+>gi|51473215|ref|NC_006142.1| Rickettsia typhi str. Wilmington, complete genome
+>gi|113911685|ref|NC_006153.2| Yersinia pseudotuberculosis IP 32953 plasmid pYV, complete sequence
+>gi|51593942|ref|NC_006154.1| Yersinia pseudotuberculosis IP 32953 plasmid pYptb32953, complete sequence
+>gi|51594359|ref|NC_006155.1| Yersinia pseudotuberculosis IP 32953 chromosome, complete genome
+>gi|51891138|ref|NC_006177.1| Symbiobacterium thermophilum IAM 14863 chromosome, complete genome
+>gi|55820103|ref|NC_006448.1| Streptococcus thermophilus LMG 18311 chromosome, complete genome
+>gi|55821993|ref|NC_006449.1| Streptococcus thermophilus CNRZ1066 chromosome, complete genome
+>gi|55979969|ref|NC_006461.1| Thermus thermophilus HB8 chromosome, complete genome
+>gi|55978183|ref|NC_006462.1| Thermus thermophilus HB8 plasmid pTT27, complete sequence
+>gi|55978435|ref|NC_006463.1| Thermus thermophilus HB8 plasmid pTT8, complete sequence
+>gi|56412276|ref|NC_006511.1| Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150 chromosome, complete genome
+>gi|283856168|ref|NC_006526.2| Zymomonas mobilis subsp. mobilis ZM4 chromosome, complete genome
+>gi|56708791|ref|NC_006569.1| Ruegeria pomeroyi DSS-3 megaplasmid, complete sequence
+>gi|56750010|ref|NC_006576.1| Synechococcus elongatus PCC 6301 chromosome, complete genome
+>gi|57639935|ref|NC_006624.1| Thermococcus kodakarensis KOD1 chromosome, complete genome
+>gi|77102894|ref|NC_006629.2| Staphylococcus aureus subsp. aureus COL plasmid pT181, complete sequence
+>gi|57854744|ref|NC_006663.1| Staphylococcus epidermidis RP62A plasmid pSERP, complete sequence
+>gi|58584261|ref|NC_006833.1| Wolbachia endosymbiont strain TRS of Brugia malayi, complete genome
+>gi|58579623|ref|NC_006834.1| Xanthomonas oryzae pv. oryzae KACC 10331 chromosome, complete genome
+>gi|172087630|ref|NC_006840.2| Vibrio fischeri ES114 chromosome I, complete sequence
+>gi|172087787|ref|NC_006841.2| Vibrio fischeri ES114 chromosome II, complete sequence
+>gi|59714356|ref|NC_006842.1| Vibrio fischeri ES114 plasmid pES100, complete sequence
+>gi|60115462|ref|NC_006855.1| Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 plasmid pSCV50, complete sequence
+>gi|60115514|ref|NC_006856.1| Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 plasmid pSC138, complete sequence
+>gi|62178570|ref|NC_006905.1| Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 chromosome, complete genome
+>gi|226315872|ref|NC_006969.2| Rhodococcus opacus B4 plasmid pKNR01, complete sequence
+>gi|226316799|ref|NC_006970.2| Rhodococcus opacus B4 plasmid pKNR02, complete sequence
+>gi|66043271|ref|NC_007005.1| Pseudomonas syringae pv. syringae B728a chromosome, complete genome
+>gi|66766352|ref|NC_007086.1| Xanthomonas campestris pv. campestris str. 8004 chromosome, complete genome
+>gi|67458392|ref|NC_007109.1| Rickettsia felis URRWXCal2 chromosome, complete genome
+>gi|67459793|ref|NC_007110.1| Rickettsia felis URRWXCal2 plasmid pRF, complete sequence
+>gi|67459862|ref|NC_007111.1| Rickettsia felis URRWXCal2 plasmid pRFdelta, complete sequence
+>gi|70725001|ref|NC_007168.1| Staphylococcus haemolyticus JCSC1435 chromosome, complete genome
+>gi|68535043|ref|NC_007169.1| Staphylococcus haemolyticus JCSC1435 plasmid pSHaeA, complete sequence
+>gi|68535047|ref|NC_007170.1| Staphylococcus haemolyticus JCSC1435 plasmid pSHaeB, complete sequence
+>gi|68535050|ref|NC_007171.1| Staphylococcus haemolyticus JCSC1435 plasmid pSHaeC, complete sequence
+>gi|70605853|ref|NC_007181.1| Sulfolobus acidocaldarius DSM 639 chromosome, complete genome
+>gi|71064581|ref|NC_007204.1| Psychrobacter arcticus 273-4 chromosome, complete genome
+>gi|71725141|ref|NC_007274.1| Pseudomonas syringae pv. phaseolicola 1448A large plasmid, complete sequence
+>gi|71725269|ref|NC_007275.1| Pseudomonas syringae pv. phaseolicola 1448A small plasmid, complete sequence
+>gi|71902667|ref|NC_007296.1| Streptococcus pyogenes MGAS6180 chromosome, complete genome
+>gi|71909814|ref|NC_007297.1| Streptococcus pyogenes MGAS5005 chromosome, complete genome
+>gi|72160406|ref|NC_007333.1| Thermobifida fusca YX chromosome, complete genome
+>gi|72383731|ref|NC_007336.1| Ralstonia eutropha JMP134 megaplasmid, complete sequence
+>gi|72384244|ref|NC_007337.1| Ralstonia eutropha JMP134 plasmid 1, complete sequence
+>gi|73539706|ref|NC_007347.1| Ralstonia eutropha JMP134 chromosome 1, complete sequence
+>gi|73537298|ref|NC_007348.1| Ralstonia eutropha JMP134 chromosome 2, complete sequence
+>gi|73661309|ref|NC_007350.1| Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305, complete genome
+>gi|73663756|ref|NC_007351.1| Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 plasmid pSSP1, complete sequence
+>gi|73663802|ref|NC_007352.1| Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 plasmid pSSP2, complete sequence
+>gi|74310614|ref|NC_007384.1| Shigella sonnei Ss046 chromosome, complete genome
+>gi|74314838|ref|NC_007385.1| Shigella sonnei Ss046 plasmid pSS_046, complete sequence
+>gi|74316018|ref|NC_007404.1| Thiobacillus denitrificans ATCC 25259 chromosome, complete genome
+>gi|76786714|ref|NC_007432.1| Streptococcus agalactiae A909 chromosome, complete genome
+>gi|77358982|ref|NC_007481.1| Pseudoalteromonas haloplanktis TAC125 chromosome I, complete sequence
+>gi|77361923|ref|NC_007482.1| Pseudoalteromonas haloplanktis TAC125 chromosome II, complete sequence
+>gi|77404485|ref|NC_007486.1| Rhodococcus erythropolis PR4 plasmid pREC1, complete sequence
+>gi|77404588|ref|NC_007487.1| Rhodococcus erythropolis PR4 plasmid pREC2, complete sequence
+>gi|552530711|ref|NC_007488.2| Rhodobacter sphaeroides 2.4.1 plasmid B, complete sequence
+>gi|77404693|ref|NC_007489.1| Rhodobacter sphaeroides 2.4.1 plasmid C, complete sequence
+>gi|552530953|ref|NC_007490.2| Rhodobacter sphaeroides 2.4.1 plasmid D, complete sequence
+>gi|77454567|ref|NC_007491.1| Rhodococcus erythropolis PR4 plasmid pREL1, complete sequence
+>gi|255961261|ref|NC_007492.2| Pseudomonas fluorescens Pf0-1 chromosome, complete genome
+>gi|552535527|ref|NC_007493.2| Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence
+>gi|552536492|ref|NC_007494.2| Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence
+>gi|78045239|ref|NC_007504.1| Xanthomonas campestris pv. vesicatoria str. 85-10 plasmid pXCV2, complete sequence
+>gi|78045242|ref|NC_007505.1| Xanthomonas campestris pv. vesicatoria str. 85-10 plasmid pXCV19, complete sequence
+>gi|78045265|ref|NC_007506.1| Xanthomonas campestris pv. vesicatoria str. 85-10 plasmid pXCV38, complete sequence
+>gi|78045309|ref|NC_007507.1| Xanthomonas campestris pv. vesicatoria str. 85-10 plasmid pXCV183, complete sequence
+>gi|78045556|ref|NC_007508.1| Xanthomonas campestris pv. vesicatoria str. 85-10 chromosome, complete genome
+>gi|78183584|ref|NC_007513.1| Synechococcus sp. CC9902 chromosome, complete genome
+>gi|78211558|ref|NC_007516.1| Synechococcus sp. CC9605, complete genome
+>gi|118139508|ref|NC_007520.2| Thiomicrospira crunogena XCL-2 chromosome, complete genome
+>gi|78776201|ref|NC_007575.1| Sulfurimonas denitrificans DSM 1251 chromosome, complete genome
+>gi|81230333|ref|NC_007595.1| Synechococcus elongatus PCC 7942 plasmid 1, complete sequence
+>gi|81298811|ref|NC_007604.1| Synechococcus elongatus PCC 7942 chromosome, complete genome
+>gi|82775382|ref|NC_007606.1| Shigella dysenteriae Sd197 chromosome, complete genome
+>gi|82524407|ref|NC_007607.1| Shigella dysenteriae Sd197 plasmid pSD1_197, complete sequence
+>gi|82524664|ref|NC_007608.1| Shigella boydii Sb227 plasmid pSB4_227, complete sequence
+>gi|82542618|ref|NC_007613.1| Shigella boydii Sb227 chromosome, complete genome
+>gi|82749777|ref|NC_007622.1| Staphylococcus aureus RF122, complete genome
+>gi|83582730|ref|NC_007641.1| Rhodospirillum rubrum ATCC 11170 plasmid unnamed, complete sequence
+>gi|83591340|ref|NC_007643.1| Rhodospirillum rubrum ATCC 11170 chromosome, complete genome
+>gi|83814055|ref|NC_007677.1| Salinibacter ruber DSM 13855 chromosome, complete genome
+>gi|83816857|ref|NC_007678.1| Salinibacter ruber DSM 13855 plasmid pSR35, complete sequence
+>gi|84621657|ref|NC_007705.1| Xanthomonas oryzae pv. oryzae MAFF 311018 chromosome, complete genome
+>gi|85057978|ref|NC_007712.1| Sodalis glossinidius str. 'morsitans' chromosome, complete genome
+>gi|85060411|ref|NC_007713.1| Sodalis glossinidius str. 'morsitans' plasmid pSG1, complete sequence
+>gi|85060466|ref|NC_007714.1| Sodalis glossinidius str. 'morsitans' plasmid pSG2, complete sequence
+>gi|85060490|ref|NC_007715.1| Sodalis glossinidius str. 'morsitans' plasmid pSG3, complete sequence
+>gi|85857845|ref|NC_007759.1| Syntrophus aciditrophicus SB chromosome, complete genome
+>gi|86355669|ref|NC_007761.1| Rhizobium etli CFN 42 chromosome, complete genome
+>gi|86359705|ref|NC_007762.1| Rhizobium etli CFN 42 plasmid p42a, complete sequence
+>gi|86359881|ref|NC_007763.1| Rhizobium etli CFN 42 plasmid p42b, complete sequence
+>gi|86360045|ref|NC_007764.1| Rhizobium etli CFN 42 plasmid p42c, complete sequence
+>gi|86360278|ref|NC_007765.1| Rhizobium etli CFN 42 plasmid p42e, complete sequence
+>gi|86360734|ref|NC_007766.1| Rhizobium etli CFN 42 plasmid p42f, complete sequence
+>gi|86604733|ref|NC_007775.1| Synechococcus sp. JA-3-3Ab chromosome, complete genome
+>gi|86607503|ref|NC_007776.1| Synechococcus sp. JA-2-3B'a(2-13) chromosome, complete genome
+>gi|86747127|ref|NC_007778.1| Rhodopseudomonas palustris HaA2 chromosome, complete genome
+>gi|87159837|ref|NC_007790.1| Staphylococcus aureus subsp. aureus USA300_FPR3757 plasmid pUSA01, complete sequence
+>gi|87159843|ref|NC_007791.1| Staphylococcus aureus subsp. aureus USA300_FPR3757 plasmid pUSA02, complete sequence
+>gi|87159847|ref|NC_007792.1| Staphylococcus aureus subsp. aureus USA300_FPR3757 plasmid pUSA03, complete sequence
+>gi|87159884|ref|NC_007793.1| Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome, complete genome
+>gi|88193823|ref|NC_007795.1| Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete genome
+>gi|89885732|ref|NC_007901.1| Rhodoferax ferrireducens T118 plasmid1, complete sequence
+>gi|89898822|ref|NC_007908.1| Rhodoferax ferrireducens T118 chromosome, complete genome
+>gi|90019649|ref|NC_007912.1| Saccharophagus degradans 2-40, complete genome
+>gi|90421528|ref|NC_007925.1| Rhodopseudomonas palustris BisB18 chromosome, complete genome
+>gi|91204815|ref|NC_007940.1| Rickettsia bellii RML369-C chromosome, complete genome
+>gi|91791369|ref|NC_007954.1| Shewanella denitrificans OS217, complete genome
+>gi|91974482|ref|NC_007958.1| Rhodopseudomonas palustris BisB5 chromosome, complete genome
+>gi|93004786|ref|NC_007968.1| Psychrobacter cryohalolentis K5 plasmid 1, complete sequence
+>gi|93004831|ref|NC_007969.1| Psychrobacter cryohalolentis K5 chromosome, complete genome
+>gi|94987631|ref|NC_008021.1| Streptococcus pyogenes MGAS9429 chromosome, complete genome
+>gi|94989509|ref|NC_008022.1| Streptococcus pyogenes MGAS10270 chromosome, complete genome
+>gi|94991497|ref|NC_008023.1| Streptococcus pyogenes MGAS2096 chromosome, complete genome
+>gi|94993396|ref|NC_008024.1| Streptococcus pyogenes MGAS10750 chromosome, complete genome
+>gi|104779316|ref|NC_008027.1| Pseudomonas entomophila L48 chromosome, complete genome
+>gi|98152871|ref|NC_008036.1| Sphingopyxis alaskensis RB2256 F plasmid, complete sequence
+>gi|99077902|ref|NC_008042.1| Ruegeria sp. TM1040 plasmid unnamed, complete sequence
+>gi|99078009|ref|NC_008043.1| Ruegeria sp. TM1040 mega plasmid, complete sequence
+>gi|99079841|ref|NC_008044.1| Ruegeria sp. TM1040 chromosome, complete genome
+>gi|103485498|ref|NC_008048.1| Sphingopyxis alaskensis RB2256 chromosome, complete genome
+>gi|108793732|ref|NC_008118.1| Yersinia pestis Nepal516 plasmid pMT, complete sequence
+>gi|108793837|ref|NC_008119.1| Yersinia pestis Nepal516 plasmid pPCP, complete sequence
+>gi|108793532|ref|NC_008120.1| Yersinia pestis Antiqua plasmid pMT, complete sequence
+>gi|108793632|ref|NC_008121.1| Yersinia pestis Antiqua plasmid pPCP, complete sequence
+>gi|108793642|ref|NC_008122.1| Yersinia pestis Antiqua plasmid pCD, complete sequence
+>gi|108802856|ref|NC_008148.1| Rubrobacter xylanophilus DSM 9941 chromosome, complete genome
+>gi|108810166|ref|NC_008149.1| Yersinia pestis Nepal516 chromosome, complete genome
+>gi|108805998|ref|NC_008150.1| Yersinia pestis Antiqua chromosome, complete genome
+>gi|110677421|ref|NC_008209.1| Roseobacter denitrificans OCh 114 chromosome, complete genome
+>gi|109896332|ref|NC_008228.1| Pseudoalteromonas atlantica T6c chromosome, complete genome
+>gi|110804074|ref|NC_008258.1| Shigella flexneri 5 str. 8401 chromosome, complete genome
+>gi|111017022|ref|NC_008268.1| Rhodococcus jostii RHA1 chromosome, complete genome
+>gi|111024785|ref|NC_008269.1| Rhodococcus jostii RHA1 plasmid pRHL1, complete sequence
+>gi|111026068|ref|NC_008270.1| Rhodococcus jostii RHA1 plasmid pRHL2, complete sequence
+>gi|111026827|ref|NC_008271.1| Rhodococcus jostii RHA1 plasmid pRHL3, complete sequence
+>gi|113473942|ref|NC_008312.1| Trichodesmium erythraeum IMS101 chromosome, complete genome
+>gi|113866031|ref|NC_008313.1| Ralstonia eutropha H16 chromosome 1, complete genome
+>gi|116693960|ref|NC_008314.1| Ralstonia eutropha H16 chromosome 2, complete sequence
+>gi|113952711|ref|NC_008319.1| Synechococcus sp. CC9311, complete genome
+>gi|113951722|ref|NC_008320.1| Shewanella sp. MR-7 plasmid1, complete sequence
+>gi|113968346|ref|NC_008321.1| Shewanella sp. MR-4 chromosome, complete genome
+>gi|114045513|ref|NC_008322.1| Shewanella sp. MR-7 chromosome, complete genome
+>gi|114561188|ref|NC_008345.1| Shewanella frigidimarina NCIMB 400 chromosome, complete genome
+>gi|114565576|ref|NC_008346.1| Syntrophomonas wolfei subsp. wolfei str. Goettingen G311 chromosome, complete genome
+>gi|116248676|ref|NC_008378.1| Rhizobium leguminosarum bv. viciae 3841 plasmid pRL12, complete sequence
+>gi|116249460|ref|NC_008379.1| Rhizobium leguminosarum bv. viciae 3841 plasmid pRL9, complete sequence
+>gi|116249766|ref|NC_008380.1| Rhizobium leguminosarum bv. viciae 3841 chromosome, complete genome
+>gi|116254467|ref|NC_008381.1| Rhizobium leguminosarum bv. viciae 3841 plasmid pRL10, complete sequence
+>gi|116254910|ref|NC_008382.1| Rhizobium leguminosarum bv. viciae 3841 plasmid pRL7, complete sequence
+>gi|116255067|ref|NC_008383.1| Rhizobium leguminosarum bv. viciae 3841 plasmid pRL8, complete sequence
+>gi|116255200|ref|NC_008384.1| Rhizobium leguminosarum bv. viciae 3841 plasmid pRL11, complete sequence
+>gi|115345530|ref|NC_008386.1| Roseobacter denitrificans plasmid pTB1, complete sequence
+>gi|115345636|ref|NC_008387.1| Roseobacter denitrificans plasmid pTB2, complete sequence
+>gi|115345694|ref|NC_008388.1| Roseobacter denitrificans plasmid pTB3, complete sequence
+>gi|115345712|ref|NC_008389.1| Roseobacter denitrificans plasmid pTB4, complete sequence
+>gi|115522030|ref|NC_008435.1| Rhodopseudomonas palustris BisA53 chromosome, complete genome
+>gi|116048575|ref|NC_008463.1| Pseudomonas aeruginosa UCBPP-PA14 chromosome, complete genome
+>gi|116326679|ref|NC_008500.1| Streptococcus thermophilus LMD-9 plasmid 1, complete sequence
+>gi|116326684|ref|NC_008501.1| Streptococcus thermophilus LMD-9 plasmid 2, complete sequence
+>gi|116626972|ref|NC_008532.1| Streptococcus thermophilus LMD-9, complete genome
+>gi|116515308|ref|NC_008533.1| Streptococcus pneumoniae D39 chromosome, complete genome
+>gi|116747452|ref|NC_008554.1| Syntrophobacter fumaroxidans MPOB chromosome, complete genome
+>gi|117676079|ref|NC_008573.1| Shewanella sp. ANA-3 plasmid 1, complete sequence
+>gi|117918459|ref|NC_008577.1| Shewanella sp. ANA-3 chromosome 1, complete sequence
+>gi|119709757|ref|NC_008696.1| Thermofilum pendens Hrk 5 plasmid pTPEN01, complete sequence
+>gi|119718918|ref|NC_008698.1| Thermofilum pendens Hrk 5 chromosome, complete genome
+>gi|119773142|ref|NC_008700.1| Shewanella amazonensis SB2B chromosome, complete genome
+>gi|119871520|ref|NC_008701.1| Pyrobaculum islandicum DSM 4184 chromosome, complete genome
+>gi|119943794|ref|NC_008709.1| Psychromonas ingrahamii 37 chromosome, complete genome
+>gi|120596833|ref|NC_008750.1| Shewanella sp. W3-18-1 chromosome, complete genome
+>gi|121583590|ref|NC_008771.1| Verminephrobacter eiseniae EF01-2 plasmid pVEIS01, complete sequence
+>gi|121607004|ref|NC_008786.1| Verminephrobacter eiseniae EF01-2 chromosome, complete genome
+>gi|122815790|ref|NC_008791.1| Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081, complete sequence
+>gi|123440403|ref|NC_008800.1| Yersinia enterocolitica subsp. enterocolitica 8081 chromosome, complete genome
+>gi|125654605|ref|NC_009007.1| Rhodobacter sphaeroides 2.4.1 plasmid A, partial sequence
+>gi|125654693|ref|NC_009008.1| Rhodobacter sphaeroides 2.4.1 plasmid E, partial sequence
+>gi|125716887|ref|NC_009009.1| Streptococcus sanguinis SK36 chromosome, complete genome
+>gi|126464913|ref|NC_009033.1| Staphylothermus marinus F1 chromosome, complete genome
+>gi|126090118|ref|NC_009035.1| Shewanella baltica OS155 plasmid pSbal01, complete sequence
+>gi|126090236|ref|NC_009036.1| Shewanella baltica OS155 plasmid pSbal02, complete sequence
+>gi|126090319|ref|NC_009037.1| Shewanella baltica OS155 plasmid pSbal03, complete sequence
+>gi|126090338|ref|NC_009038.1| Shewanella baltica OS155 plasmid pSbal04, complete sequence
+>gi|126464805|ref|NC_009040.1| Rhodobacter sphaeroides ATCC 17029 plasmid pRSPH01, complete sequence
+>gi|126460778|ref|NC_009049.1| Rhodobacter sphaeroides ATCC 17029 chromosome 1, complete sequence
+>gi|126463752|ref|NC_009050.1| Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence
+>gi|126172257|ref|NC_009052.1| Shewanella baltica OS155 chromosome, complete genome
+>gi|126458628|ref|NC_009073.1| Pyrobaculum calidifontis JCM 11548, complete genome
+>gi|127510935|ref|NC_009092.1| Shewanella loihica PV-4 chromosome, complete genome
+>gi|134047083|ref|NC_009140.1| Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence
+>gi|134096620|ref|NC_009142.1| Saccharopolyspora erythraea NRRL 2338 chromosome, complete genome
+>gi|139472888|ref|NC_009332.1| Streptococcus pyogenes str. Manfredo chromosome, complete genome
+>gi|145294016|ref|NC_009344.1| Shigella dysenteriae Sd197 plasmid pSD197_spA, complete sequence
+>gi|145294025|ref|NC_009345.1| Shigella sonnei Ss046 plasmid pSS046_spA, complete sequence
+>gi|145294031|ref|NC_009346.1| Shigella sonnei Ss046 plasmid pSS046_spB, complete sequence
+>gi|145294040|ref|NC_009347.1| Shigella sonnei Ss046 plasmid pSS046_spC, complete sequence
+>gi|145590267|ref|NC_009376.1| Pyrobaculum arsenaticum DSM 13514 chromosome, complete genome
+>gi|145597103|ref|NC_009377.1| Yersinia pestis Pestoides F plasmid CD, complete sequence
+>gi|145597192|ref|NC_009378.1| Yersinia pestis Pestoides F plasmid MT, complete sequence
+>gi|145592566|ref|NC_009380.1| Salinispora tropica CNB-440 chromosome, complete genome
+>gi|145597324|ref|NC_009381.1| Yersinia pestis Pestoides F chromosome, complete genome
+>gi|146276058|ref|NC_009428.1| Rhodobacter sphaeroides ATCC 17025 chromosome, complete genome
+>gi|146279170|ref|NC_009429.1| Rhodobacter sphaeroides ATCC 17025 plasmid pRSPA01, complete sequence
+>gi|146279973|ref|NC_009430.1| Rhodobacter sphaeroides ATCC 17025 plasmid pRSPA02, complete sequence
+>gi|146280242|ref|NC_009431.1| Rhodobacter sphaeroides ATCC 17025 plasmid pRSPA03, complete sequence
+>gi|146280352|ref|NC_009432.1| Rhodobacter sphaeroides ATCC 17025 plasmid pRSPA04, complete sequence
+>gi|146280384|ref|NC_009433.1| Rhodobacter sphaeroides ATCC 17025 plasmid pRSPA05, complete sequence
+>gi|146280397|ref|NC_009434.1| Pseudomonas stutzeri A1501 chromosome, complete genome
+>gi|146291111|ref|NC_009438.1| Shewanella putrefaciens CN-32 chromosome, complete genome
+>gi|146305042|ref|NC_009439.1| Pseudomonas mendocina ymp chromosome, complete genome
+>gi|146317663|ref|NC_009442.1| Streptococcus suis 05ZYH33 chromosome, complete genome
+>gi|146319850|ref|NC_009443.1| Streptococcus suis 98HAH33, complete genome
+>gi|147671401|ref|NC_009456.1| Vibrio cholerae O395 chromosome 1, complete sequence
+>gi|147673035|ref|NC_009457.1| Vibrio cholerae O395 chromosome 2, complete sequence
+>gi|148244139|ref|NC_009477.1| Staphylococcus aureus subsp. aureus JH9 plasmid pSJH901, complete sequence
+>gi|148238336|ref|NC_009481.1| Synechococcus sp. WH 7803 chromosome, complete genome
+>gi|148241099|ref|NC_009482.1| Synechococcus sp. RCC307 chromosome, complete genome
+>gi|148269145|ref|NC_009486.1| Thermotoga petrophila RKU-1 chromosome, complete genome
+>gi|148266447|ref|NC_009487.1| Staphylococcus aureus subsp. aureus JH9 chromosome, complete genome
+>gi|148550551|ref|NC_009507.1| Sphingomonas wittichii RW1 plasmid pSWIT01, complete sequence
+>gi|148550845|ref|NC_009508.1| Sphingomonas wittichii RW1 plasmid pSWIT02, complete sequence
+>gi|148552929|ref|NC_009511.1| Sphingomonas wittichii RW1 chromosome, complete genome
+>gi|148545259|ref|NC_009512.1| Pseudomonas putida F1 chromosome, complete genome
+>gi|148641524|ref|NC_009516.1| Psychrobacter sp. PRwf-1 plasmid pRWF101, complete sequence
+>gi|148641539|ref|NC_009517.1| Psychrobacter sp. PRwf-1 plasmid pRWF102, complete sequence
+>gi|148654188|ref|NC_009523.1| Roseiflexus sp. RS-1 chromosome, complete genome
+>gi|148651817|ref|NC_009524.1| Psychrobacter sp. PRwf-1 chromosome, complete genome
+>gi|150019913|ref|NC_009616.1| Thermosipho melanesiensis BI429 chromosome, complete genome
+>gi|150375692|ref|NC_009619.1| Staphylococcus aureus subsp. aureus JH1 plasmid pSJH101, complete sequence
+>gi|150375726|ref|NC_009620.1| Sinorhizobium medicae WSM419 plasmid pSMED01, complete sequence
+>gi|150377168|ref|NC_009621.1| Sinorhizobium medicae WSM419 plasmid pSMED02, complete sequence
+>gi|150378263|ref|NC_009622.1| Sinorhizobium medicae WSM419 plasmid pSMED03, complete sequence
+>gi|150392480|ref|NC_009632.1| Staphylococcus aureus subsp. aureus JH1 chromosome, complete genome
+>gi|150395228|ref|NC_009636.1| Sinorhizobium medicae WSM419 chromosome, complete genome
+>gi|151220212|ref|NC_009641.1| Staphylococcus aureus subsp. aureus str. Newman chromosome, complete genome
+>gi|152983466|ref|NC_009656.1| Pseudomonas aeruginosa PA7 chromosome, complete genome
+>gi|152998483|ref|NC_009661.1| Shewanella baltica OS185 plasmid pS18501, complete sequence
+>gi|152991597|ref|NC_009663.1| Sulfurovum sp. NBC37-1 chromosome, complete genome
+>gi|152998555|ref|NC_009665.1| Shewanella baltica OS185 chromosome, complete genome
+>gi|153930562|ref|NC_009704.1| Yersinia pseudotuberculosis IP 31758 plasmid_59kb, complete sequence
+>gi|153930630|ref|NC_009705.1| Yersinia pseudotuberculosis IP 31758 plasmid_153kb, complete sequence
+>gi|153946813|ref|NC_009708.1| Yersinia pseudotuberculosis IP 31758 chromosome, complete genome
+>gi|154243668|ref|NC_009717.1| Xanthobacter autotrophicus Py2 plasmid pXAUT01, complete sequence
+>gi|154243958|ref|NC_009720.1| Xanthobacter autotrophicus Py2 chromosome, complete genome
+>gi|156740028|ref|NC_009767.1| Roseiflexus castenholzii DSM 13941 chromosome, complete genome
+>gi|156936674|ref|NC_009777.1| Vibrio harveyi ATCC BAA-1116 plasmid pVIBHAR, complete sequence
+>gi|156978331|ref|NC_009782.1| Staphylococcus aureus subsp. aureus Mu3, complete genome
+>gi|156972381|ref|NC_009783.1| Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence
+>gi|156975952|ref|NC_009784.1| Vibrio harveyi ATCC BAA-1116 chromosome II, complete sequence
+>gi|157149651|ref|NC_009785.1| Streptococcus gordonii str. Challis substr. CH1 chromosome, complete genome
+>gi|157362870|ref|NC_009828.1| Thermotoga lettingae TMO chromosome, complete genome
+>gi|157362818|ref|NC_009829.1| Serratia proteamaculans 568 plasmid pSPRO01, complete sequence
+>gi|157373141|ref|NC_009831.1| Shewanella sediminis HAW-EB3 chromosome, complete genome
+>gi|157368249|ref|NC_009832.1| Serratia proteamaculans 568 chromosome, complete genome
+>gi|157803189|ref|NC_009879.1| Rickettsia canadensis str. McKiel, complete genome
+>gi|157825125|ref|NC_009881.1| Rickettsia akari str. Hartford chromosome, complete genome
+>gi|157827862|ref|NC_009882.1| Rickettsia rickettsii str. 'Sheila Smith' chromosome, complete genome
+>gi|157826385|ref|NC_009883.1| Rickettsia bellii OSU 85-389 chromosome, complete genome
+>gi|157954006|ref|NC_009897.1| Rickettsia massiliae MTU5 plasmid pRMA, complete sequence
+>gi|157964072|ref|NC_009900.1| Rickettsia massiliae MTU5 chromosome, complete genome
+>gi|157959830|ref|NC_009901.1| Shewanella pealeana ATCC 700345 chromosome, complete genome
+>gi|159035674|ref|NC_009953.1| Salinispora arenicola CNS-205 chromosome, complete genome
+>gi|160873126|ref|NC_009997.1| Shewanella baltica OS195 chromosome, complete genome
+>gi|160872934|ref|NC_009998.1| Shewanella baltica OS195 plasmid pS19501, complete sequence
+>gi|160873002|ref|NC_009999.1| Shewanella baltica OS195 plasmid pS19502, complete sequence
+>gi|160873076|ref|NC_010000.1| Shewanella baltica OS195 plasmid pS19503, complete sequence
+>gi|161510924|ref|NC_010063.1| Staphylococcus aureus subsp. aureus USA300_TCH1516 plasmid pUSA300HOUMR, complete sequence
+>gi|161501984|ref|NC_010067.1| Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980 chromosome, complete genome
+>gi|161508266|ref|NC_010079.1| Staphylococcus aureus subsp. aureus USA300_TCH1516 chromosome, complete genome
+>gi|161612313|ref|NC_010102.1| Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7 chromosome, complete genome
+>gi|162417732|ref|NC_010157.1| Yersinia pestis Angola plasmid new_pCD, complete sequence
+>gi|162417821|ref|NC_010158.1| Yersinia pestis Angola plasmid pMT-pPCP, complete sequence
+>gi|162418099|ref|NC_010159.1| Yersinia pestis Angola chromosome, complete genome
+>gi|162448269|ref|NC_010162.1| Sorangium cellulosum 'So ce 56' chromosome, complete genome
+>gi|163838769|ref|NC_010168.1| Renibacterium salmoninarum ATCC 33209 chromosome, complete genome
+>gi|319717301|ref|NC_010263.2| Rickettsia rickettsii str. Iowa chromosome, complete genome
+>gi|167038675|ref|NC_010320.1| Thermoanaerobacter sp. X514 chromosome, complete genome
+>gi|167036431|ref|NC_010321.1| Thermoanaerobacter pseudethanolicus ATCC 33223 chromosome, complete genome
+>gi|167031021|ref|NC_010322.1| Pseudomonas putida GB-1 chromosome, complete genome
+>gi|167621941|ref|NC_010334.1| Shewanella halifaxensis HAW-EB4 chromosome, complete genome
+>gi|169832377|ref|NC_010380.1| Streptococcus pneumoniae Hungary19A-6, complete genome
+>gi|170022262|ref|NC_010465.1| Yersinia pseudotuberculosis YPIII chromosome, complete genome
+>gi|170076470|ref|NC_010474.1| Synechococcus sp. PCC 7002 plasmid pAQ7, complete sequence
+>gi|170076636|ref|NC_010475.1| Synechococcus sp. PCC 7002 chromosome, complete genome
+>gi|170079460|ref|NC_010476.1| Synechococcus sp. PCC 7002 plasmid pAQ1, complete sequence
+>gi|170079464|ref|NC_010477.1| Synechococcus sp. PCC 7002 plasmid pAQ3, complete sequence
+>gi|170079482|ref|NC_010478.1| Synechococcus sp. PCC 7002 plasmid pAQ4, complete sequence
+>gi|170079513|ref|NC_010479.1| Synechococcus sp. PCC 7002 plasmid pAQ5, complete sequence
+>gi|170079553|ref|NC_010480.1| Synechococcus sp. PCC 7002 plasmid pAQ6, complete sequence
+>gi|170287807|ref|NC_010483.1| Thermotoga sp. RQ2 chromosome, complete genome
+>gi|170719187|ref|NC_010501.1| Pseudomonas putida W619 chromosome, complete genome
+>gi|170761847|ref|NC_010503.1| Ureaplasma parvum serovar 3 str. ATCC 27815 chromosome, complete genome
+>gi|170724370|ref|NC_010506.1| Shewanella woodyi ATCC 51908 chromosome, complete genome
+>gi|170729251|ref|NC_010513.1| Xylella fastidiosa M12 chromosome, complete genome
+>gi|171184485|ref|NC_010525.1| Pyrobaculum neutrophilum V24Sta chromosome, complete genome
+>gi|197283915|ref|NC_010554.1| Proteus mirabilis HI4320 chromosome, complete genome
+>gi|172055989|ref|NC_010555.1| Proteus mirabilis plasmid pHI4320, complete sequence
+>gi|182433793|ref|NC_010572.1| Streptomyces griseus subsp. griseus NBRC 13350 chromosome, complete genome
+>gi|182680572|ref|NC_010577.1| Xylella fastidiosa M23 chromosome, complete genome
+>gi|182682734|ref|NC_010579.1| Xylella fastidiosa M23 plasmid pXFAS01, complete sequence
+>gi|182682970|ref|NC_010582.1| Streptococcus pneumoniae CGSP14 chromosome, complete genome
+>gi|186893344|ref|NC_010634.1| Yersinia pseudotuberculosis PB1/+ chromosome, complete genome
+>gi|186897495|ref|NC_010635.1| Yersinia pseudotuberculosis PB1/+ plasmid pYPTS01, complete sequence
+>gi|187729963|ref|NC_010656.1| Shigella boydii CDC 3083-94 plasmid pBS512_2, complete sequence
+>gi|187729967|ref|NC_010657.1| Shigella boydii CDC 3083-94 plasmid pBS512_33, complete sequence
+>gi|187730020|ref|NC_010658.1| Shigella boydii CDC 3083-94 chromosome, complete genome
+>gi|187734267|ref|NC_010659.1| Shigella boydii CDC 3083-94 plasmid pBS512_5, complete sequence
+>gi|187734273|ref|NC_010660.1| Shigella boydii CDC 3083-94 plasmid pBS512_211, complete sequence
+>gi|187918703|ref|NC_010672.1| Shigella boydii CDC 3083-94 plasmid pBS512_7, complete sequence
+>gi|187925958|ref|NC_010678.1| Ralstonia pickettii 12J chromosome 2, complete sequence
+>gi|187927112|ref|NC_010682.1| Ralstonia pickettii 12J chromosome 1, complete sequence
+>gi|187930822|ref|NC_010683.1| Ralstonia pickettii 12J plasmid pRPIC01, complete sequence
+>gi|188989396|ref|NC_010688.1| Xanthomonas campestris pv. campestris str. B100 chromosome, complete genome
+>gi|188574270|ref|NC_010717.1| Xanthomonas oryzae pv. oryzae PXO99A chromosome, complete genome
+>gi|188995955|ref|NC_010730.1| Sulfurihydrogenibium sp. YO3AOP1 chromosome, complete genome
+>gi|189025236|ref|NC_010741.1| Treponema pallidum subsp. pallidum SS14, complete genome
+>gi|190572091|ref|NC_010943.1| Stenotrophomonas maltophilia K279a chromosome, complete genome
+>gi|190570478|ref|NC_010981.1| Wolbachia endosymbiont of Culex quinquefasciatus Pel chromosome, complete genome
+>gi|190889639|ref|NC_010994.1| Rhizobium etli CIAT 652 chromosome, complete genome
+>gi|190893983|ref|NC_010996.1| Rhizobium etli CIAT 652 plasmid pB, complete sequence
+>gi|190894340|ref|NC_010997.1| Rhizobium etli CIAT 652 plasmid pC, complete sequence
+>gi|190895317|ref|NC_010998.1| Rhizobium etli CIAT 652 plasmid pA, complete sequence
+>gi|192288433|ref|NC_011004.1| Rhodopseudomonas palustris TIE-1 chromosome, complete genome
+>gi|194332853|ref|NC_011059.1| Prosthecochloris aestuarii DSM 271 chromosome, complete genome
+>gi|194335117|ref|NC_011061.1| Prosthecochloris aestuarii DSM 271 plasmid pPAES01, complete sequence
+>gi|194363778|ref|NC_011071.1| Stenotrophomonas maltophilia R551-3 chromosome, complete genome
+>gi|194396645|ref|NC_011072.1| Streptococcus pneumoniae G54 chromosome, complete genome
+>gi|194442198|ref|NC_011079.1| Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSL254_3, complete sequence
+>gi|194442203|ref|NC_011080.1| Salmonella enterica subsp. enterica serovar Newport str. SL254 chromosome, complete genome
+>gi|194447175|ref|NC_011081.1| Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL476_91, complete sequence
+>gi|194447301|ref|NC_011082.1| Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL476_3, complete sequence
+>gi|194447306|ref|NC_011083.1| Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 chromosome, complete genome
+>gi|194733773|ref|NC_011092.1| Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM19633_110, complete sequence
+>gi|194733896|ref|NC_011093.1| Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM19633_4, complete sequence
+>gi|194733902|ref|NC_011094.1| Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 chromosome, complete genome
+>gi|195977156|ref|NC_011134.1| Streptococcus equi subsp. zooepidemicus MGCS10565 chromosome, complete genome
+>gi|197361212|ref|NC_011147.1| Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 chromosome, complete genome
+>gi|197247299|ref|NC_011148.1| Salmonella enterica subsp. enterica serovar Agona str. SL483 plasmid unnamed, complete sequence
+>gi|197247352|ref|NC_011149.1| Salmonella enterica subsp. enterica serovar Agona str. SL483 chromosome, complete genome
+>gi|197333880|ref|NC_011184.1| Vibrio fischeri MJ11 chromosome I, complete sequence
+>gi|197336471|ref|NC_011185.1| Vibrio fischeri MJ11 plasmid pMJ100, complete sequence
+>gi|197336667|ref|NC_011186.1| Vibrio fischeri MJ11 chromosome II, complete sequence
+>gi|198241636|ref|NC_011204.1| Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853 plasmid pCT02021853_74, complete sequence
+>gi|198241740|ref|NC_011205.1| Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853 chromosome, complete genome
+>gi|205351346|ref|NC_011274.1| Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91 chromosome, complete genome
+>gi|207855516|ref|NC_011294.1| Salmonella enterica subsp. enterica serovar Enteritidis str. P125109 chromosome, complete genome
+>gi|206889172|ref|NC_011296.1| Thermodesulfovibrio yellowstonii DSM 11347 chromosome, complete genome
+>gi|209545999|ref|NC_011366.1| Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG202, complete sequence
+>gi|209546450|ref|NC_011368.1| Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG201, complete sequence
+>gi|209547612|ref|NC_011369.1| Rhizobium leguminosarum bv. trifolii WSM2304 chromosome, complete genome
+>gi|209551938|ref|NC_011370.1| Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG203, complete sequence
+>gi|209552195|ref|NC_011371.1| Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG204, complete sequence
+>gi|209553988|ref|NC_011374.1| Ureaplasma urealyticum serovar 10 str. ATCC 33699 chromosome, complete genome
+>gi|209558587|ref|NC_011375.1| Streptococcus pyogenes NZ131 chromosome, complete genome
+>gi|289546492|ref|NC_011420.2| Rhodospirillum centenum SW chromosome, complete genome
+>gi|212223144|ref|NC_011529.1| Thermococcus onnurineus NA1 chromosome, complete genome
+>gi|212632911|ref|NC_011566.1| Shewanella piezotolerans WP3 chromosome, complete genome
+>gi|217076133|ref|NC_011653.1| Thermosipho africanus TCF52B chromosome, complete genome
+>gi|237653092|ref|NC_011662.2| Thauera sp. MZ1T chromosome, complete genome
+>gi|217971216|ref|NC_011663.1| Shewanella baltica OS223 chromosome, complete genome
+>gi|217975547|ref|NC_011664.1| Shewanella baltica OS223 plasmid pS22301, complete sequence
+>gi|217975697|ref|NC_011665.1| Shewanella baltica OS223 plasmid pS22303, complete sequence
+>gi|217980115|ref|NC_011667.1| Thauera sp. MZ1T plasmid pTha01, complete sequence
+>gi|217980264|ref|NC_011668.1| Shewanella baltica OS223 plasmid pS22302, complete sequence
+>gi|294510242|ref|NC_011744.2| Vibrio splendidus LGP32 chromosome 2, complete sequence
+>gi|294514841|ref|NC_011753.2| Vibrio splendidus LGP32 chromosome 1, complete sequence
+>gi|218888746|ref|NC_011770.1| Pseudomonas aeruginosa LESB58 chromosome, complete genome
+>gi|221230948|ref|NC_011900.1| Streptococcus pneumoniae ATCC 700669, complete genome
+>gi|220933193|ref|NC_011901.1| Thioalkalivibrio sulfidophilus HL-EbGr7 chromosome, complete genome
+>gi|221368938|ref|NC_011958.1| Rhodobacter sphaeroides KD131 chromosome 2, complete sequence
+>gi|221632037|ref|NC_011959.1| Thermomicrobium roseum DSM 5159 chromosome, complete genome
+>gi|221634492|ref|NC_011960.1| Rhodobacter sphaeroides KD131 plasmid pRSKD131B, complete sequence
+>gi|221635406|ref|NC_011961.1| Thermomicrobium roseum DSM 5159 plasmid unnamed, complete sequence
+>gi|221218192|ref|NC_011962.1| Rhodobacter sphaeroides KD131 plasmid pRSKD131A, complete sequence
+>gi|221638099|ref|NC_011963.1| Rhodobacter sphaeroides KD131 chromosome 1, complete sequence
+>gi|222098974|ref|NC_011978.1| Thermotoga neapolitana DSM 4359 chromosome, complete genome
+>gi|222152201|ref|NC_012004.1| Streptococcus uberis 0140J chromosome, complete genome
+>gi|224475494|ref|NC_012121.1| Staphylococcus carnosus subsp. carnosus TM300 chromosome, complete genome
+>gi|224504235|ref|NC_012124.1| Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594 plasmid pSPCV, complete sequence
+>gi|224581838|ref|NC_012125.1| Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594 chromosome, complete genome
+>gi|225629872|ref|NC_012416.1| Wolbachia sp. wRi, complete genome
+>gi|225631039|ref|NC_012417.1| Staphylococcus aureus subsp. aureus USA300_TCH1516 plasmid pUSA01-HOU, complete sequence
+>gi|225847840|ref|NC_012438.1| Sulfurihydrogenibium azorense Az-Fu1 chromosome, complete genome
+>gi|225853611|ref|NC_012466.1| Streptococcus pneumoniae JJA, complete genome
+>gi|225855735|ref|NC_012467.1| Streptococcus pneumoniae P1031, complete genome
+>gi|225857809|ref|NC_012468.1| Streptococcus pneumoniae 70585, complete genome
+>gi|225860012|ref|NC_012469.1| Streptococcus pneumoniae Taiwan19F-14 chromosome, complete genome
+>gi|225867617|ref|NC_012470.1| Streptococcus equi subsp. zooepidemicus, complete genome
+>gi|225869487|ref|NC_012471.1| Streptococcus equi subsp. equi 4047, complete genome
+>gi|226303489|ref|NC_012490.1| Rhodococcus erythropolis PR4 DNA, complete genome
+>gi|226349237|ref|NC_012520.1| Rhodococcus opacus B4 plasmid pROB01, complete sequence
+>gi|226349831|ref|NC_012521.1| Rhodococcus opacus B4 plasmid pROB02, complete sequence
+>gi|226359415|ref|NC_012522.1| Rhodococcus opacus B4, complete genome
+>gi|226334772|ref|NC_012523.1| Rhodococcus opacus B4 plasmid pKNR, complete sequence
+>gi|227080237|ref|NC_012578.1| Vibrio cholerae M66-2 chromosome I, complete sequence
+>gi|227811634|ref|NC_012580.1| Vibrio cholerae M66-2 chromosome II, complete sequence
+>gi|227116370|ref|NC_012582.1| Vibrio cholerae O395 chromosome chromosome I, complete sequence
+>gi|227119188|ref|NC_012583.1| Vibrio cholerae O395 chromosome chromosome II, complete sequence
+>gi|227818258|ref|NC_012586.1| Sinorhizobium fredii NGR234 plasmid pNGR234b, complete sequence
+>gi|227820587|ref|NC_012587.1| Sinorhizobium fredii NGR234 chromosome, complete genome
+>gi|227826411|ref|NC_012588.1| Sulfolobus islandicus M.14.25 chromosome, complete genome
+>gi|227829020|ref|NC_012589.1| Sulfolobus islandicus L.S.2.15 chromosome, complete genome
+>gi|229577818|ref|NC_012622.1| Sulfolobus islandicus Y.G.57.14 chromosome, complete genome
+>gi|229580722|ref|NC_012623.1| Sulfolobus islandicus Y.N.15.51 chromosome, complete genome
+>gi|228288719|ref|NC_012624.1| Sulfolobus islandicus Y.N.15.51 plasmid pYN01, complete sequence
+>gi|229583573|ref|NC_012632.1| Sulfolobus islandicus M.16.27 chromosome, complete genome
+>gi|229586230|ref|NC_012633.1| Rickettsia africae ESF-5 chromosome, complete genome
+>gi|228478451|ref|NC_012634.1| Rickettsia africae ESF-5 plasmid pRAF, complete sequence
+>gi|229587578|ref|NC_012660.1| Pseudomonas fluorescens SBW25 chromosome, complete genome
+>gi|229605062|ref|NC_012667.1| Vibrio cholerae MJ-1236 chromosome 2, complete genome
+>gi|229606122|ref|NC_012668.1| Vibrio cholerae MJ-1236 chromosome 1, complete sequence
+>gi|237806776|ref|NC_012691.1| Tolumonas auensis DSM 9187 chromosome, complete genome
+>gi|238618479|ref|NC_012726.1| Sulfolobus islandicus M.16.4 chromosome, complete genome
+>gi|238650213|ref|NC_012730.1| Rickettsia peacockii str. Rustic, complete genome
+>gi|238651159|ref|NC_012732.1| Rickettsia peacockii str. Rustic plasmid pRPR, complete sequence
+>gi|239813019|ref|NC_012791.1| Variovorax paradoxus S110 chromosome 1, complete sequence
+>gi|239819985|ref|NC_012792.1| Variovorax paradoxus S110 chromosome 2, complete genome
+>gi|240102057|ref|NC_012804.1| Thermococcus gammatolerans EJ3 chromosome, complete genome
+>gi|241113003|ref|NC_012848.1| Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132501, complete sequence
+>gi|241114100|ref|NC_012849.1| Ralstonia pickettii 12D plasmid pRp12D02, complete sequence
+>gi|241202755|ref|NC_012850.1| Rhizobium leguminosarum bv. trifolii WSM1325 chromosome, complete genome
+>gi|241258150|ref|NC_012851.1| Ralstonia pickettii 12D plasmid pRp12D03, complete sequence
+>gi|241258599|ref|NC_012852.1| Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132504, complete sequence
+>gi|241518161|ref|NC_012853.1| Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132503, complete sequence
+>gi|241554070|ref|NC_012854.1| Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132505, complete sequence
+>gi|241589533|ref|NC_012855.1| Ralstonia pickettii 12D plasmid pRp12D01, complete sequence
+>gi|241661625|ref|NC_012856.1| Ralstonia pickettii 12D chromosome 1, complete sequence
+>gi|241665037|ref|NC_012857.1| Ralstonia pickettii 12D chromosome 2, complete sequence
+>gi|241666492|ref|NC_012858.1| Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132502, complete sequence
+>gi|242397997|ref|NC_012883.1| Thermococcus sibiricus MM 739, complete genome
+>gi|251781468|ref|NC_012891.1| Streptococcus dysgalactiae subsp. equisimilis GGS_124 chromosome 1, complete sequence
+>gi|253750612|ref|NC_012923.1| Streptococcus suis BM407 plasmid pBM407, complete sequence
+>gi|253750923|ref|NC_012924.1| Streptococcus suis SC84, complete genome
+>gi|253752822|ref|NC_012925.1| Streptococcus suis P1/7, complete genome
+>gi|253754647|ref|NC_012926.1| Streptococcus suis BM407 chromosome, complete genome
+>gi|254784273|ref|NC_012997.1| Teredinibacter turnerae T7901 chromosome, complete genome
+>gi|257054089|ref|NC_013159.1| Saccharomonospora viridis DSM 43017 chromosome, complete genome
+>gi|257062754|ref|NC_013165.1| Slackia heliotrinireducens DSM 20476 chromosome, complete genome
+>gi|260060589|ref|NC_013222.1| Robiginitalea biformata HTCC2501 chromosome, complete genome
+>gi|260752245|ref|NC_013355.1| Zymomonas mobilis subsp. mobilis NCIMB 11163 chromosome, complete genome
+>gi|260712883|ref|NC_013356.1| Zymomonas mobilis subsp. mobilis NCIB 11163 plasmid pZA1001, complete sequence
+>gi|260738802|ref|NC_013357.1| Zymomonas mobilis subsp. mobilis NCIB 11163 plasmid pZA1002, complete sequence
+>gi|260738835|ref|NC_013358.1| Zymomonas mobilis subsp. mobilis NCIB 11163 plasmid pZA1003, complete sequence
+>gi|269201690|ref|NC_013450.1| Staphylococcus aureus subsp. aureus ED98, complete genome
+>gi|262225764|ref|NC_013451.1| Staphylococcus aureus subsp. aureus ED98 plasmid pAVY, complete sequence
+>gi|262225767|ref|NC_013452.1| Staphylococcus aureus subsp. aureus ED98 plasmid pT181, complete sequence
+>gi|262260515|ref|NC_013453.1| Staphylococcus aureus subsp. aureus ED98 plasmid pAVX, complete sequence
+>gi|262392383|ref|NC_013456.1| Vibrio sp. Ex25 chromosome 1, complete sequence
+>gi|262395299|ref|NC_013457.1| Vibrio sp. Ex25 chromosome 2, complete genome
+>gi|268315578|ref|NC_013501.1| Rhodothermus marinus DSM 4252 chromosome, complete genome
+>gi|268318345|ref|NC_013502.1| Rhodothermus marinus DSM 4252 plasmid pRMAR01, complete sequence
+>gi|269124277|ref|NC_013510.1| Thermomonospora curvata DSM 43183 chromosome, complete genome
+>gi|268678642|ref|NC_013512.1| Sulfurospirillum deleyianum DSM 6946 chromosome, complete genome
+>gi|269122800|ref|NC_013515.1| Streptobacillus moniliformis DSM 12112 chromosome, complete genome
+>gi|268687599|ref|NC_013516.1| Streptobacillus moniliformis DSM 12112 plasmid pSMON01, complete sequence
+>gi|269118642|ref|NC_013517.1| Sebaldella termitidis ATCC 33386 chromosome, complete genome
+>gi|268793183|ref|NC_013518.1| Sebaldella termitidis ATCC 33386 plasmid pSTERM01, complete sequence
+>gi|268796558|ref|NC_013519.1| Sebaldella termitidis ATCC 33386 plasmid pSTERM02, complete sequence
+>gi|269797069|ref|NC_013520.1| Veillonella parvula DSM 2008 chromosome, complete genome
+>gi|269793358|ref|NC_013521.1| Sanguibacter keddieii DSM 10542 chromosome, complete genome
+>gi|269791619|ref|NC_013522.1| Thermanaerovibrio acidaminovorans DSM 6589 chromosome, complete genome
+>gi|269836033|ref|NC_013523.1| Sphaerobacter thermophilus DSM 20745 chromosome 1, complete sequence
+>gi|269928379|ref|NC_013524.1| Sphaerobacter thermophilus DSM 20745 chromosome 2, complete sequence
+>gi|269925123|ref|NC_013525.1| Thermobaculum terrenum ATCC BAA-798 chromosome 1, complete sequence
+>gi|269838913|ref|NC_013526.1| Thermobaculum terrenum ATCC BAA-798 chromosome 2, complete sequence
+>gi|269954810|ref|NC_013530.1| Xylanimonas cellulosilytica DSM 15894 chromosome, complete genome
+>gi|269958148|ref|NC_013531.1| Xylanimonas cellulosilytica DSM 15894 plasmid pXCEL01, complete sequence
+>gi|271961609|ref|NC_013595.1| Streptosporangium roseum DSM 43021 chromosome, complete genome
+>gi|271972120|ref|NC_013596.1| Streptosporangium roseum DSM 43021 plasmid pSROS01, complete sequence
+>gi|281411444|ref|NC_013642.1| Thermotoga naphthophila RKU-10, complete genome
+>gi|283457089|ref|NC_013715.1| Rothia mucilaginosa DY-18 chromosome, complete genome
+>gi|285016821|ref|NC_013722.1| Xanthomonas albilineans GPE PC73 chromosome, complete genome
+>gi|284034943|ref|NC_013730.1| Spirosoma linguale DSM 74 chromosome, complete genome
+>gi|284005577|ref|NC_013731.1| Spirosoma linguale DSM 74 plasmid pSLIN01, complete sequence
+>gi|284005755|ref|NC_013732.1| Spirosoma linguale DSM 74 plasmid pSLIN02, complete sequence
+>gi|284005898|ref|NC_013733.1| Spirosoma linguale DSM 74 plasmid pSLIN03, complete sequence
+>gi|284005939|ref|NC_013734.1| Spirosoma linguale DSM 74 plasmid pSLIN04, complete sequence
+>gi|284005954|ref|NC_013735.1| Spirosoma linguale DSM 74 plasmid pSLIN05, complete sequence
+>gi|284005967|ref|NC_013736.1| Spirosoma linguale DSM 74 plasmid pSLIN06, complete sequence
+>gi|284005992|ref|NC_013737.1| Spirosoma linguale DSM 74 plasmid pSLIN07, complete sequence
+>gi|284006004|ref|NC_013738.1| Spirosoma linguale DSM 74 plasmid pSLIN08, complete sequence
+>gi|284996407|ref|NC_013769.1| Sulfolobus islandicus L.D.8.5 chromosome, complete genome
+>gi|284807103|ref|NC_013770.1| Sulfolobus islandicus L.D.8.5 plasmid pLD8501, complete sequence
+>gi|284928601|ref|NC_013771.1| Cyanobacterium UCYN-A, complete genome
+>gi|288904223|ref|NC_013798.1| Streptococcus gallolyticus UCN34 chromosome, complete genome
+>gi|289166909|ref|NC_013853.1| Streptococcus mitis B6, complete genome
+>gi|289207187|ref|NC_013889.1| Thioalkalivibrio sp. K90mix chromosome, complete genome
+>gi|290473094|ref|NC_013892.1| Xenorhabdus bovienii SS-2004 chromosome, complete genome
+>gi|289549371|ref|NC_013893.1| Staphylococcus lugdunensis HKU09-01 chromosome, complete genome
+>gi|289547777|ref|NC_013894.1| Thermocrinis albus DSM 14484 chromosome, complete genome
+>gi|289577265|ref|NC_013921.1| Thermoanaerobacter italicus Ab9 chromosome, complete genome
+>gi|290579526|ref|NC_013928.1| Streptococcus mutans NN2025, complete genome
+>gi|290954631|ref|NC_013929.1| Streptomyces scabiei 87.22 chromosome, complete genome
+>gi|290242889|ref|NC_013930.1| Thioalkalivibrio sp. K90mix plasmid pTK9001, complete sequence
+>gi|291297538|ref|NC_013947.1| Stackebrandtia nassauensis DSM 44728 chromosome, complete genome
+>gi|291612472|ref|NC_013959.1| Sideroxydans lithotrophicus ES-1 chromosome, complete genome
+>gi|293980644|ref|NC_014005.1| Sphingobium japonicum UT26S plasmid pUT1, complete sequence
+>gi|294009986|ref|NC_014006.1| Sphingobium japonicum UT26S chromosome 1, complete sequence
+>gi|294023656|ref|NC_014007.1| Sphingobium japonicum UT26S plasmid pCHQ1, complete sequence
+>gi|294057975|ref|NC_014009.1| Sphingobium japonicum UT26S plasmid pUT2, complete sequence
+>gi|294138771|ref|NC_014012.1| Shewanella violacea DSS12 chromosome, complete genome
+>gi|294146429|ref|NC_014013.1| Sphingobium japonicum UT26S chromosome 2, complete sequence
+>gi|294496807|ref|NC_014017.1| Yersinia pestis Z176003 plasmid pCD1, complete sequence
+>gi|294501992|ref|NC_014022.1| Yersinia pestis Z176003 plasmid pMT1, complete sequence
+>gi|294508902|ref|NC_014026.1| Salinibacter ruber M8 plasmid pSR11, complete sequence
+>gi|294509193|ref|NC_014027.1| Yersinia pestis Z176003 plasmid pPCP1, complete sequence
+>gi|294502069|ref|NC_014028.1| Salinibacter ruber M8 plasmid pSR56, complete sequence
+>gi|294502110|ref|NC_014029.1| Yersinia pestis Z176003 chromosome, complete genome
+>gi|294505653|ref|NC_014030.1| Salinibacter ruber M8 plasmid pSR61, complete sequence
+>gi|294505815|ref|NC_014032.1| Salinibacter ruber M8 chromosome, complete genome
+>gi|294675557|ref|NC_014034.1| Rhodobacter capsulatus SB 1003 chromosome, complete genome
+>gi|294679055|ref|NC_014035.1| Rhodobacter capsulatus SB 1003 plasmid pRCB133, complete sequence
+>gi|295131884|ref|NC_014041.1| Zunongwangia profunda SM-A87 chromosome, complete genome
+>gi|296112158|ref|NC_014144.1| Thiomonas sp. str. 3As plasmid pTHI, complete genome
+>gi|410692016|ref|NC_014145.1| Thiomonas sp. 3As, complete genome
+>gi|296131550|ref|NC_014152.1| Thermincola potens JR chromosome, complete genome
+>gi|296134504|ref|NC_014153.1| Thiomonas intermedia K12 chromosome, complete genome
+>gi|296137611|ref|NC_014154.1| Thiomonas intermedia K12 plasmid pTINT01, complete sequence
+>gi|296137655|ref|NC_014155.1| thiomonas intermedia K12 plasmid pTINT02, complete sequence
+>gi|296137679|ref|NC_014157.1| Salinibacter ruber M8 plasmid pSR84, complete sequence
+>gi|296137750|ref|NC_014158.1| Tsukamurella paurometabola DSM 20162 chromosome, complete genome
+>gi|296141908|ref|NC_014159.1| Tsukamurella paurometabola DSM 20162 plasmid pTpau01, complete sequence
+>gi|296241748|ref|NC_014160.1| Thermosphaera aggregans DSM 11486 chromosome, complete genome
+>gi|296267998|ref|NC_014165.1| Thermobispora bispora DSM 43833 chromosome, complete genome
+>gi|296392440|ref|NC_014168.1| Segniliparus rotundus DSM 44985 chromosome, complete genome
+>gi|296491824|ref|NC_014170.1| Xenorhabdus nematophila ATCC 19061 plasmid XNC1_p, complete sequence
+>gi|297526028|ref|NC_014205.1| Staphylothermus hellenicus DSM 12710 chromosome, complete genome
+>gi|297543498|ref|NC_014209.1| Thermoanaerobacter mathranii subsp. mathranii str. A3 chromosome, complete genome
+>gi|297625198|ref|NC_014215.1| Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1 chromosome, complete genome
+>gi|298290017|ref|NC_014217.1| Starkeya novella DSM 506 chromosome, complete genome
+>gi|297616214|ref|NC_014220.1| Syntrophothermus lipocalidus DSM 12680 chromosome, complete genome
+>gi|297622252|ref|NC_014221.1| Truepera radiovictrix DSM 17093 chromosome, complete genome
+>gi|297620246|ref|NC_014225.1| Waddlia chondrophila WSU 86-1044 chromosome, complete genome
+>gi|297660606|ref|NC_014226.1| Waddlia chondrophila WSU 86-1044 plasmid pWc, complete sequence
+>gi|300721089|ref|NC_014228.1| Xenorhabdus nematophila ATCC 19061 chromosome, complete genome
+>gi|298489614|ref|NC_014248.1| 'Nostoc azollae' 0708 chromosome, complete genome
+>gi|298501383|ref|NC_014249.1| 'Nostoc azollae' 0708 plasmid pAzo01, complete sequence
+>gi|298501435|ref|NC_014250.1| 'Nostoc azollae' 0708 plasmid pAzo02, complete sequence
+>gi|298501502|ref|NC_014251.1| Streptococcus pneumoniae TCH8431/19A chromosome, complete genome
+>gi|300702374|ref|NC_014307.1| Ralstonia solanacearum CFBP2957 chromosome complete genome
+>gi|300698618|ref|NC_014308.1| Ralstonia solanacearum PSI07 plasmid pRSI13, complete genome
+>gi|300696564|ref|NC_014309.1| Ralstonia solanacearum CFBP2957 plasmid RCFBPv3_mp, complete genome
+>gi|300693042|ref|NC_014310.1| Ralstonia solanacearum PSI07 megaplasmid mpPSI07, complete sequence
+>gi|300689714|ref|NC_014311.1| Ralstonia solanacearum str. PSI07 chromosome, complete genome
+>gi|302336548|ref|NC_014364.1| Spirochaeta smaragdinae DSM 11293 chromosome, complete genome
+>gi|304309652|ref|NC_014366.1| Gamma proteobacterium HdN1 chromosome, complete genome
+>gi|302388599|ref|NC_014377.1| Thermosediminibacter oceani DSM 16646 chromosome, complete genome
+>gi|304315537|ref|NC_014410.1| Thermoanaerobacterium thermosaccharolyticum DSM 571 chromosome, complete genome
+>gi|307717717|ref|NC_014484.1| Spirochaeta thermophila DSM 6192 chromosome, complete genome
+>gi|307066636|ref|NC_014494.1| Streptococcus pneumoniae AP200 chromosome, complete genome
+>gi|307126151|ref|NC_014498.1| Streptococcus pneumoniae 670-6B chromosome, complete genome
+>gi|307719921|ref|NC_014506.1| Sulfurimonas autotrophica DSM 16294 chromosome, complete genome
+>gi|307594149|ref|NC_014537.1| Vulcanisaeta distributa DSM 14429 chromosome, complete genome
+>gi|307723218|ref|NC_014538.1| Thermoanaerobacter sp. X513 chromosome, complete genome
+>gi|310657316|ref|NC_014614.1| [Clostridium] sticklandii, complete genome
+>gi|310817278|ref|NC_014623.1| Stigmatella aurantiaca DW4/3-1 chromosome, complete genome
+>gi|311111670|ref|NC_014643.1| Rothia dentocariosa ATCC 17931 chromosome, complete genome
+>gi|312137514|ref|NC_014659.1| Rhodococcus equi 103S, complete genome
+>gi|312112794|ref|NC_014664.1| Rhodomicrobium vannielii ATCC 17100 chromosome, complete genome
+>gi|313205511|ref|NC_014738.1| Riemerella anatipestifer ATCC 11845 = DSM 15868 chromosome, complete genome
+>gi|313669332|ref|NC_014754.1| Sulfuricurvum kujiense DSM 16994 plasmid pSULKU01, complete sequence
+>gi|313669445|ref|NC_014755.1| Sulfuricurvum kujiense DSM 16994 plasmid pSULKU02, complete sequence
+>gi|313669532|ref|NC_014756.1| Sulfuricurvum kujiense DSM 16994 plasmid pSULKU03, complete sequence
+>gi|313681130|ref|NC_014762.1| Sulfuricurvum kujiense DSM 16994 chromosome, complete genome
+>gi|313569999|ref|NC_014763.1| Sulfuricurvum kujiense DSM 16994 plasmid pSULKU04, complete sequence
+>gi|315122943|ref|NC_014800.1| Pseudoalteromonas sp. SM9913 chromosome II, complete sequence
+>gi|315125111|ref|NC_014803.1| Pseudoalteromonas sp. SM9913 chromosome I, complete sequence
+>gi|315229765|ref|NC_014804.1| Thermococcus barophilus MP chromosome, complete genome
+>gi|317133719|ref|NC_014824.1| Ruminococcus albus 7 plasmid pRUMAL01, complete sequence
+>gi|319788691|ref|NC_014825.1| Ruminococcus albus 7 plasmid pRUMAL02, complete sequence
+>gi|315630409|ref|NC_014826.1| Ruminococcus albus 7 plasmid pRUMAL03, complete sequence
+>gi|317133710|ref|NC_014827.1| Ruminococcus albus 7 plasmid pRUMAL04, complete sequence
+>gi|317120849|ref|NC_014831.1| Thermaerobacter marianensis DSM 12885 chromosome, complete genome
+>gi|317054731|ref|NC_014833.1| Ruminococcus albus 7 chromosome, complete genome
+>gi|316931396|ref|NC_014834.1| Rhodopseudomonas palustris DX-1 chromosome, complete genome
+>gi|319778189|ref|NC_014914.1| Taylorella equigenitalis MCE9 chromosome, complete genome
+>gi|319774848|ref|NC_014917.1| Thermovibrio ammonificans HB-1 plasmid pTHEAM01, complete sequence
+>gi|319785620|ref|NC_014924.1| Pseudoxanthomonas suwonensis 11-1 chromosome, complete genome
+>gi|319891290|ref|NC_014925.1| Staphylococcus pseudintermedius HKU10-03 chromosome, complete genome
+>gi|319788982|ref|NC_014926.1| Thermovibrio ammonificans HB-1 chromosome, complete genome
+>gi|319790694|ref|NC_014931.1| Variovorax paradoxus EPS chromosome, complete genome
+>gi|320105246|ref|NC_014963.1| Terriglobus saanensis SP1PR4 chromosome, complete genome
+>gi|320114857|ref|NC_014964.1| Thermoanaerobacter brockii subsp. finnii Ako-1 chromosome, complete genome
+>gi|320154846|ref|NC_014965.1| Vibrio vulnificus MO6-24/O chromosome I, complete sequence
+>gi|320157827|ref|NC_014966.1| Vibrio vulnificus MO6-24/O chromosome II, complete sequence
+>gi|320449106|ref|NC_014974.1| Thermus scotoductus SA-01 chromosome, complete genome
+>gi|320449093|ref|NC_014975.1| Thermus scotoductus SA-01 plasmid pTSC8, complete sequence
+>gi|322830733|ref|NC_015061.1| Rahnella sp. Y9602 chromosome, complete genome
+>gi|322835126|ref|NC_015062.1| Rahnella sp. Y9602 plasmid pRAHAQ01, complete sequence
+>gi|322836370|ref|NC_015063.1| Rahnella sp. Y9602 plasmid pRAHAQ02, complete sequence
+>gi|325953647|ref|NC_015144.1| Weeksella virosa DSM 16922 chromosome, complete genome
+>gi|325967528|ref|NC_015151.1| Vulcanisaeta moutnovskia 768-28 chromosome, complete genome
+>gi|325969849|ref|NC_015152.1| Spirochaeta sp. Buddy chromosome, complete genome
+>gi|325288201|ref|NC_015172.1| Syntrophobotulus glycolicus DSM 8271 chromosome, complete genome
+>gi|325977200|ref|NC_015215.1| Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069, complete genome
+>gi|325926838|ref|NC_015219.1| Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069 plasmid pSGG1, complete sequence
+>gi|332159624|ref|NC_015224.1| Yersinia enterocolitica subsp. palearctica 105.5R(r) chromosome, complete genome
+>gi|326797444|ref|NC_015277.1| Sphingobacterium sp. 21 chromosome, complete genome
+>gi|331265438|ref|NC_015291.1| Streptococcus oralis Uo5, complete genome
+>gi|331693899|ref|NC_015312.1| Pseudonocardia dioxanivorans CB1190 chromosome, complete genome
+>gi|327309734|ref|NC_015313.1| Pseudonocardia dioxanivorans CB1190 plasmid pPSED03, complete sequence
+>gi|327309749|ref|NC_015314.1| Pseudonocardia dioxanivorans CB1190 plasmid pPSED01, complete sequence
+>gi|327309922|ref|NC_015315.1| Thermoproteus uzoniensis 768-20 chromosome, complete genome
+>gi|330806657|ref|NC_015379.1| Pseudomonas brassicacearum subsp. brassicacearum NFM421 chromosome, complete genome
+>gi|328946930|ref|NC_015385.1| Treponema succinifaciens DSM 2489 chromosome, complete genome
+>gi|328949383|ref|NC_015386.1| Treponema succinifaciens DSM 2489 plasmid pTRESU01, complete sequence
+>gi|330464829|ref|NC_015409.1| Verrucosispora maris AB-18-032 plasmid pVMKU, complete sequence
+>gi|330500914|ref|NC_015410.1| Pseudomonas mendocina NK-01 chromosome, complete genome
+>gi|330831849|ref|NC_015433.1| Streptococcus suis ST3 chromosome, complete genome
+>gi|330464883|ref|NC_015434.1| Verrucosispora maris AB-18-032 chromosome, complete genome
+>gi|330835983|ref|NC_015436.1| Spirochaeta coccoides DSM 17374 chromosome, complete genome
+>gi|330837866|ref|NC_015437.1| Selenomonas sputigena ATCC 35185 chromosome, complete genome
+>gi|332283253|ref|NC_015458.1| Pusillimonas sp. T7-7 chromosome, complete genome
+>gi|332283175|ref|NC_015459.1| Pusillimonas sp. T7-7 plasmid unnamed, complete sequence
+>gi|331746790|ref|NC_015471.1| Thermococcus barophilus MP plasmid pTBMP1, complete sequence
+>gi|332157643|ref|NC_015474.1| Pyrococcus sp. NA2 chromosome, complete genome
+>gi|332163560|ref|NC_015475.1| Yersinia enterocolitica subsp. palearctica 105.5R(r) plasmid 105.5R(r)p, complete sequence
+>gi|332294861|ref|NC_015499.1| Thermodesulfobium narugense DSM 14796 chromosome, complete genome
+>gi|332296669|ref|NC_015500.1| Treponema brennaborense DSM 12168 chromosome, complete genome
+>gi|332798023|ref|NC_015519.1| Tepidanaerobacter sp. Re1 chromosome, complete genome
+>gi|333895862|ref|NC_015555.1| Thermoanaerobacterium xylanolyticum LX-11 chromosome, complete genome
+>gi|333898208|ref|NC_015556.1| Pseudomonas fulva 12-X chromosome, complete genome
+>gi|333904249|ref|NC_015558.1| Streptococcus parauberis KCTC 11537 chromosome, complete genome
+>gi|333924895|ref|NC_015566.1| Serratia sp. AS12 chromosome, complete genome
+>gi|333929848|ref|NC_015567.1| Serratia plymuthica AS9 chromosome, complete genome
+>gi|333992987|ref|NC_015577.1| Treponema azotonutricium ZAS-9 chromosome, complete genome
+>gi|333996462|ref|NC_015578.1| Treponema primitia ZAS-2 chromosome, complete genome
+>gi|334143099|ref|NC_015581.1| Thioalkalimicrobium cyclicum ALM1 chromosome, complete genome
+>gi|334314770|ref|NC_015590.1| Sinorhizobium meliloti AK83 chromosome 1, complete sequence
+>gi|334318456|ref|NC_015591.1| Sinorhizobium meliloti AK83 chromosome 3, complete sequence
+>gi|334321156|ref|NC_015592.1| Sinorhizobium meliloti AK83 plasmid pSINME02, complete sequence
+>gi|334343657|ref|NC_015593.1| Sphingobium chlorophenolicum L-1 chromosome 1, complete sequence
+>gi|334342451|ref|NC_015594.1| Sphingobium chlorophenolicum L-1 chromosome 2, complete sequence
+>gi|334346522|ref|NC_015595.1| Sphingobium chlorophenolicum L-1 plasmid pSPHCH01, complete sequence
+>gi|334319652|ref|NC_015596.1| Sinorhizobium meliloti AK83 chromosome 2, complete sequence
+>gi|334321232|ref|NC_015597.1| Sinorhizobium meliloti AK83 plasmid pSINME01, complete sequence
+>gi|336063372|ref|NC_015600.1| Streptococcus pasteurianus ATCC 43144, complete genome
+>gi|336122587|ref|NC_015633.1| Vibrio anguillarum 775 chromosome I, complete sequence
+>gi|336125405|ref|NC_015637.1| Vibrio anguillarum 775 chromosome II, complete sequence
+>gi|336319134|ref|NC_015671.1| Cellvibrio gilvus ATCC 13127 chromosome, complete genome
+>gi|337277607|ref|NC_015677.1| Ramlibacter tataouinensis TTB310 chromosome, complete genome
+>gi|337281488|ref|NC_015678.1| Streptococcus parasanguinis ATCC 15912 chromosome, complete genome
+>gi|337283511|ref|NC_015680.1| Pyrococcus yayanosii CH1 chromosome, complete genome
+>gi|337285377|ref|NC_015681.1| Thermodesulfatator indicus DSM 15286 chromosome, complete genome
+>gi|337287573|ref|NC_015682.1| Thermodesulfobacterium geofontis OPF15 chromosome, complete genome
+>gi|338209372|ref|NC_015693.1| Runella slithyformis DSM 19594 plasmid pRUNSL01, complete sequence
+>gi|338209457|ref|NC_015694.1| Runella slithyformis DSM 19594 plasmid pRUNSL03, complete sequence
+>gi|338215004|ref|NC_015695.1| Runella slithyformis DSM 19594 plasmid pRUNSL05, complete sequence
+>gi|338209545|ref|NC_015703.1| Runella slithyformis DSM 19594 chromosome, complete genome
+>gi|338215079|ref|NC_015704.1| Runella slithyformis DSM 19594 plasmid pRUNSL02, complete sequence
+>gi|338215037|ref|NC_015705.1| Runella slithyformis DSM 19594 plasmid pRUNSL04, complete sequence
+>gi|338729812|ref|NC_015707.1| Thermotoga thermarum DSM 5069 chromosome, complete genome
+>gi|338706993|ref|NC_015709.1| Zymomonas mobilis subsp. pomaceae ATCC 29192 chromosome, complete genome
+>gi|338731758|ref|NC_015710.1| Simkania negevensis Z plasmid pSn, complete sequence
+>gi|338731896|ref|NC_015713.1| Simkania negevensis Z chromosome gsn.131, complete sequence
+>gi|338705982|ref|NC_015714.1| Treponema paraluiscuniculi Cuniculi A chromosome, complete genome
+>gi|338708677|ref|NC_015715.1| Zymomonas mobilis subsp. pomaceae ATCC 29192 plasmid pZYMOP01, complete sequence
+>gi|338708711|ref|NC_015716.1| Zymomonas mobilis subsp. pomaceae ATCC 29192 plasmid pZYMOP02, complete sequence
+>gi|339501483|ref|NC_015728.1| Roseobacter litoralis Och 149 plasmid pRLO149_83, complete sequence
+>gi|339501435|ref|NC_015729.1| Roseobacter litoralis Och 149 plasmid pRLO149_63, complete sequence
+>gi|339501577|ref|NC_015730.1| Roseobacter litoralis Och 149 chromosome, complete genome
+>gi|339498645|ref|NC_015732.1| Spirochaeta caldaria DSM 7334 chromosome, complete genome
+>gi|339484941|ref|NC_015733.1| Pseudomonas putida S16 chromosome, complete genome
+>gi|339492077|ref|NC_015740.1| Pseudomonas stutzeri ATCC 17588 = LMG 11199 chromosome, complete genome
+>gi|339505889|ref|NC_015741.1| Roseobacter litoralis Och 149 plasmid pRLO149_94, complete sequence
+>gi|339635250|ref|NC_015756.1| Weissella koreensis KACC 15510 plasmid WKp2903, complete sequence
+>gi|339626328|ref|NC_015757.1| Sulfobacillus acidophilus TPY chromosome, complete genome
+>gi|339633914|ref|NC_015759.1| Weissella koreensis KACC 15510 chromosome, complete genome
+>gi|340397867|ref|NC_015760.1| Streptococcus salivarius CCHSS3, complete genome
+>gi|339998036|ref|NC_015761.1| Salmonella bongori NCTC 12419, complete genome
+>gi|340616011|ref|NC_015844.1| Zobellia galactanivorans chromosome, complete genome
+>gi|341581088|ref|NC_015865.1| Thermococcus sp. 4557 chromosome, complete genome
+>gi|341583222|ref|NC_015866.1| Rickettsia heilongjiangensis 054 chromosome, complete genome
+>gi|342162671|ref|NC_015875.1| Streptococcus pseudopneumoniae IS7493 chromosome, complete genome
+>gi|342164902|ref|NC_015876.1| Streptococcus pseudopneumoniae IS7493 plasmid pDRPIS7493, complete sequence
+>gi|347522554|ref|NC_015931.1| Pyrolobus fumarii 1A chromosome, complete genome
+>gi|344205421|ref|NC_015947.1| Stenotrophomonas maltophilia JV3 chromosome, complete genome
+>gi|345007457|ref|NC_015951.1| Streptomyces violaceusniger Tu 4113 plasmid pSTRVI01, complete sequence
+>gi|345007715|ref|NC_015952.1| Streptomyces violaceusniger Tu 4113 plasmid pSTRVI02, complete sequence
+>gi|344997652|ref|NC_015953.1| Streptomyces sp. SirexAA-E chromosome, complete genome
+>gi|345004010|ref|NC_015954.1| Halophilic archaeon DL31 chromosome, complete genome
+>gi|345006827|ref|NC_015955.1| Halophilic archaeon DL31 plasmid phalar01, complete sequence
+>gi|345007964|ref|NC_015957.1| Streptomyces violaceusniger Tu 4113 chromosome, complete genome
+>gi|345016447|ref|NC_015958.1| Thermoanaerobacter wiegelii Rt8.B1 chromosome, complete genome
+>gi|345133531|ref|NC_015959.1| Halophilic archaeon DL31 plasmid phalar02, complete sequence
+>gi|345301888|ref|NC_015966.1| Rhodothermus marinus SG0.5JP17-172 chromosome, complete genome
+>gi|345301886|ref|NC_015967.1| Rhodothermus marinus SG0.5JP17-172 plasmid pRHOM17202, complete sequence
+>gi|345301799|ref|NC_015970.1| Rhodothermus marinus SG0.5JP17-172 plasmid pRHOM17201, complete sequence
+>gi|347430512|ref|NC_015974.1| Sphingobium sp. SYK-6 plasmid pSLPG, complete sequence
+>gi|347526385|ref|NC_015976.1| Sphingobium sp. SYK-6 chromosome, complete genome
+>gi|347530298|ref|NC_015977.1| Roseburia hominis A2-183 chromosome, complete genome
+>gi|347537839|ref|NC_016002.1| Pseudogulbenkiania sp. NH8B, complete genome
+>gi|346722940|ref|NC_016010.1| Xanthomonas axonopodis pv. citrumelo F1 chromosome, complete genome
+>gi|348589352|ref|NC_016043.1| Taylorella asinigenitalis MCE3 chromosome, complete genome
+>gi|350273053|ref|NC_016050.1| Rickettsia japonica YH, complete genome
+>gi|350525682|ref|NC_016051.1| Thermococcus sp. AM4 chromosome, complete genome
+>gi|352516173|ref|NC_016052.1| Tetragenococcus halophilus NBRC 12172, complete genome
+>gi|352681234|ref|NC_016070.1| Thermoproteus tenax Kra 1, complete genome
+>gi|357409092|ref|NC_016110.1| Streptomyces pratensis ATCC 33331 plasmid pSFLA01, complete sequence
+>gi|357397620|ref|NC_016111.1| Streptomyces cattleya NRRL 8057, complete genome
+>gi|357407371|ref|NC_016113.1| Streptomyces cattleya NRRL 8057 plasmid pSCAT, complete sequence
+>gi|357409266|ref|NC_016114.1| Streptomyces pratensis ATCC 33331 chromosome, complete genome
+>gi|357415565|ref|NC_016115.1| Streptomyces pratensis ATCC 33331 plasmid pSFLA02, complete sequence
+>gi|371486894|ref|NC_016147.2| Pseudoxanthomonas spadix BD-a59 chromosome, complete genome
+>gi|357418851|ref|NC_016148.1| Thermovirga lienii DSM 17291 chromosome, complete genome
+>gi|357418824|ref|NC_016149.1| Thermovirga lienii DSM 17291 plasmid pTLIE01, complete sequence
+>gi|360034408|ref|NC_016445.1| Vibrio cholerae O1 str. 2010EL-1786 chromosome 1, complete sequence
+>gi|360037214|ref|NC_016446.1| Vibrio cholerae O1 str. 2010EL-1786 chromosome 2, complete sequence
+>gi|365961730|ref|NC_016511.1| Propionibacterium acnes TypeIA2 P.acn31 chromosome, complete genome
+>gi|365972921|ref|NC_016516.1| Propionibacterium acnes TypeIA2 P.acn33 chromosome, complete genome
+>gi|374982757|ref|NC_016582.1| Streptomyces bingchenggensis BCW-1 chromosome, complete genome
+>gi|375129061|ref|NC_016600.1| Pseudonocardia dioxanivorans CB1190 plasmid pPSED02, complete sequence
+>gi|375129105|ref|NC_016601.1| Pseudonocardia dioxanivorans CB1190 plasmid pPSED02, complete sequence
+>gi|375129161|ref|NC_016602.1| Vibrio furnissii NCTC 11218 chromosome 1, complete sequence
+>gi|375253814|ref|NC_016610.1| Tannerella forsythia ATCC 43037 chromosome, complete genome
+>gi|375264031|ref|NC_016613.1| Vibrio sp. EJY3 chromosome 1, complete sequence
+>gi|375262319|ref|NC_016614.1| Vibrio sp. EJY3 chromosome 2, complete sequence
+>gi|375132168|ref|NC_016628.1| Vibrio furnissii NCTC 11218 chromosome 2, complete sequence
+>gi|374313777|ref|NC_016632.1| Serratia symbiotica str. 'Cinara cedri' chromosome, complete genome
+>gi|374314450|ref|NC_016633.1| Sphaerochaeta pleomorpha str. Grapes chromosome, complete genome
+>gi|384440648|ref|NC_016634.1| Thermus sp. CCB_US3_UF1 plasmid pTCCB09, complete sequence
+>gi|374318767|ref|NC_016639.1| Rickettsia slovaca 13-B chromosome, complete genome
+>gi|374328350|ref|NC_016642.1| Pseudovibrio sp. FO-BEG1 chromosome, complete genome
+>gi|374325525|ref|NC_016645.1| Pyrobaculum sp. 1860 chromosome, complete genome
+>gi|374333421|ref|NC_016646.1| Pseudovibrio sp. FO-BEG1 plasmid unnamed, complete sequence
+>gi|374337044|ref|NC_016749.1| Streptococcus macedonicus ACA-DC 198, complete genome
+>gi|373248555|ref|NC_016750.1| Streptococcus macedonicus ACA-DC 198 plasmid pSMA198, complete sequence
+>gi|378697983|ref|NC_016810.1| Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344, complete genome
+>gi|378824597|ref|NC_016812.1| Sinorhizobium fredii HH103, complete genome
+>gi|378828553|ref|NC_016813.1| Sinorhizobium fredii HH103 plasmid pSfHH103a complete sequence
+>gi|378775795|ref|NC_016814.1| Sinorhizobium fredii HH103 plasmid pSfHH103c complete sequence
+>gi|378762851|ref|NC_016815.1| Sinorhizobium fredii HH103 plasmid pSfHH103e complete sequence
+>gi|383187966|ref|NC_016818.1| Rahnella aquatilis CIP 78.65 = ATCC 33071 chromosome, complete genome
+>gi|383192311|ref|NC_016819.1| Rahnella aquatilis CIP 78.65 = ATCC 33071 plasmid pRahaq202, complete sequence
+>gi|377520096|ref|NC_016822.1| Shigella sonnei 53G, complete genome
+>gi|377520097|ref|NC_016823.1| Shigella sonnei 53G plasmid B, complete genome
+>gi|377520098|ref|NC_016824.1| Shigella sonnei 53G plasmid C, complete sequence
+>gi|378962821|ref|NC_016825.1| Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12 plasmid unnamed, complete sequence
+>gi|379704392|ref|NC_016826.1| Streptococcus infantarius subsp. infantarius CJ18 chromosome, complete genome
+>gi|378947941|ref|NC_016830.1| Pseudomonas fluorescens F113 chromosome, complete genome
+>gi|378953804|ref|NC_016831.1| Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078 chromosome, complete genome
+>gi|378958130|ref|NC_016832.1| Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12, complete genome
+>gi|377549524|ref|NC_016833.1| Shigella sonnei 53G plasmid A, complete sequence
+>gi|377549525|ref|NC_016834.1| Shigella sonnei 53G plasmid E, complete sequence
+>gi|379703932|ref|NC_016835.1| Rahnella aquatilis CIP 78.65 = ATCC 33071 plasmid pRahaq201, complete sequence
+>gi|378828572|ref|NC_016836.1| Sinorhizobium fredii HH103 plasmid pSfHH103b complete sequence
+>gi|379704341|ref|NC_016837.1| Streptococcus infantarius subsp. infantarius CJ18 plasmid pSICJ18-1, complete sequence
+>gi|378972501|ref|NC_016842.1| Treponema pallidum subsp. pertenue str. SamoaD chromosome, complete genome
+>gi|378973567|ref|NC_016843.1| Treponema pallidum subsp. pertenue str. Gauthier chromosome, complete genome
+>gi|378974633|ref|NC_016844.1| Treponema pallidum subsp. pallidum DAL-1 chromosome, complete genome
+>gi|378981476|ref|NC_016848.1| Treponema pallidum subsp. pertenue str. CDC2 chromosome, complete genome
+>gi|378443454|ref|NC_016854.1| Salmonella enterica subsp. enterica serovar Typhimurium str. D23580
+>gi|378448040|ref|NC_016855.1| Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S plasmid unnamed, complete sequence
+>gi|378448274|ref|NC_016856.1| Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S chromosome, complete genome
+>gi|379699217|ref|NC_016857.1| Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74 chromosome, complete genome
+>gi|379699100|ref|NC_016858.1| Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74 plasmid TY474p1, complete sequence
+>gi|386730537|ref|NC_016859.1| Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74 plasmid TY474p3, complete sequence
+>gi|378982542|ref|NC_016860.1| Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 chromosome, complete genome
+>gi|378987264|ref|NC_016861.1| Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 plasmid pSTMDT12_L, complete sequence
+>gi|377542923|ref|NC_016862.1| Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 plasmid pSTMDT12_S, complete sequence
+>gi|378987404|ref|NC_016863.1| Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1 chromosome, complete genome
+>gi|378991860|ref|NC_016864.1| Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1 plasmid pSTUK-100, complete sequence
+>gi|379005799|ref|NC_016884.1| Sulfobacillus acidophilus DSM 10332 chromosome, complete genome
+>gi|379002962|ref|NC_016885.1| Pyrobaculum oguniense TE7 chromosome, complete genome
+>gi|379005763|ref|NC_016886.1| Pyrobaculum oguniense TE7 extrachromosomal element, complete sequence
+>gi|379009184|ref|NC_016888.1| Sulfobacillus acidophilus DSM 10332 plasmid unnamed, complete sequence
+>gi|379009272|ref|NC_016893.1| Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony) chromosome, complete genome
+>gi|378706362|ref|NC_016901.1| Shewanella baltica OS678 chromosome, complete genome
+>gi|378715492|ref|NC_016905.1| Shewanella baltica OS678 plasmid pSBAL67801, complete sequence
+>gi|378720668|ref|NC_016908.1| Rickettsia rickettsii str. Colombia chromosome, complete genome
+>gi|378722019|ref|NC_016909.1| Rickettsia rickettsii str. Arizona chromosome, complete genome
+>gi|378723377|ref|NC_016911.1| Rickettsia rickettsii str. Hauke chromosome, complete genome
+>gi|379013365|ref|NC_016912.1| Staphylococcus aureus subsp. aureus VC40 chromosome, complete genome
+>gi|379015834|ref|NC_016913.1| Rickettsia rickettsii str. Brazil chromosome, complete genome
+>gi|379017167|ref|NC_016914.1| Rickettsia rickettsii str. Hino chromosome, complete genome
+>gi|379018503|ref|NC_016915.1| Rickettsia rickettsii str. Hlp#2 chromosome, complete genome
+>gi|379019812|ref|NC_016928.1| Staphylococcus aureus subsp. aureus M013 chromosome, complete genome
+>gi|379022404|ref|NC_016929.1| Rickettsia canadensis str. CA410 chromosome, complete genome
+>gi|379711742|ref|NC_016930.1| Rickettsia philipii str. 364D chromosome, complete genome
+>gi|379713087|ref|NC_016931.1| Rickettsia massiliae str. AZT80 chromosome, complete genome
+>gi|379732330|ref|NC_016936.1| Saprospira grandis str. Lewin plasmid unnamed, complete sequence
+>gi|378750097|ref|NC_016939.1| Rickettsia massiliae str. AZT80 plasmid pRMB, complete sequence
+>gi|379728134|ref|NC_016940.1| Saprospira grandis str. Lewin chromosome, complete genome
+>gi|379794527|ref|NC_016941.1| Staphylococcus aureus subsp. aureus MSHR1132, complete genome
+>gi|379793806|ref|NC_016942.1| Staphylococcus aureus subsp. aureus MSHR1132 plasmid pST75, complete sequence
+>gi|379739908|ref|NC_016944.1| Vibrio cholerae IEC224 chromosome I, complete sequence
+>gi|379743460|ref|NC_016945.1| Vibrio cholerae IEC224 chromosome II, complete sequence
+>gi|386836021|ref|NC_016972.1| Streptomyces hygroscopicus subsp. jinggangensis 5008 plasmid pSHJG2, complete sequence
+>gi|383320909|ref|NC_017038.1| Synechocystis sp. PCC 6803 substr. GT-I, complete genome
+>gi|383324079|ref|NC_017039.1| Synechocystis sp. PCC 6803 substr. PCC-P, complete genome
+>gi|383479207|ref|NC_017040.1| Streptococcus pyogenes MGAS15252 chromosome, complete genome
+>gi|383479184|ref|NC_017041.1| Rickettsia australis str. Cutlack plasmid pMC5_1, complete sequence
+>gi|383480870|ref|NC_017042.1| Rickettsia rhipicephali str. 3-7-female6-CWPP chromosome, complete genome
+>gi|383482123|ref|NC_017043.1| Rickettsia montanensis str. OSU 85-930 chromosome, complete genome
+>gi|383483341|ref|NC_017044.1| Rickettsia parkeri str. Portsmouth chromosome, complete genome
+>gi|383484660|ref|NC_017045.1| Riemerella anatipestifer ATCC 11845 = DSM 15868 chromosome, complete genome
+>gi|383494824|ref|NC_017046.1| Salmonella enterica subsp. enterica serovar Typhimurium str. 798 chromosome, complete genome
+>gi|384255905|ref|NC_017047.1| Rahnella aquatilis HX2 chromosome, complete genome
+>gi|383486602|ref|NC_017048.1| Rickettsia prowazekii str. GvV257 chromosome, complete genome
+>gi|383487432|ref|NC_017049.1| Rickettsia prowazekii str. Chernikova chromosome, complete genome
+>gi|383488278|ref|NC_017050.1| Rickettsia prowazekii str. Katsinyian chromosome, complete genome
+>gi|383489123|ref|NC_017051.1| Rickettsia prowazekii str. Dachau chromosome, complete genome
+>gi|383489963|ref|NC_017052.1| Synechocystis sp. PCC 6803 substr. PCC-N, complete genome
+>gi|383493132|ref|NC_017053.1| Streptococcus pyogenes MGAS1882 chromosome, complete genome
+>gi|383499151|ref|NC_017054.1| Salmonella enterica subsp. enterica serovar Typhimurium str. 798 plasmid p798_93, complete sequence
+>gi|381356294|ref|NC_017055.1| Rickettsia rhipicephali str. 3-7-female6-CWPP plasmid pMCC_1, complete sequence
+>gi|383499256|ref|NC_017056.1| Rickettsia prowazekii str. BuV67-CWPP chromosome, complete genome
+>gi|383500100|ref|NC_017057.1| Rickettsia prowazekii str. RpGvF24 chromosome, complete genome
+>gi|383500935|ref|NC_017058.1| Rickettsia australis str. Cutlack chromosome, complete genome
+>gi|384260349|ref|NC_017059.1| Rhodospirillum photometricum DSM 122, complete genome
+>gi|384527587|ref|NC_017060.1| Rahnella aquatilis HX2 plasmid PRA1, complete sequence
+>gi|383842824|ref|NC_017062.1| Rickettsia typhi str. B9991CWPP chromosome, complete genome
+>gi|383750641|ref|NC_017065.1| Rickettsia slovaca str. D-CWPP chromosome, complete genome
+>gi|383751989|ref|NC_017066.1| Rickettsia typhi str. TH1527 chromosome, complete genome
+>gi|383752828|ref|NC_017068.1| Selenomonas ruminantium subsp. lactilytica TAM6421, complete genome
+>gi|383755655|ref|NC_017069.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC4, complete sequence
+>gi|383080676|ref|NC_017070.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC6, complete sequence
+>gi|383080708|ref|NC_017071.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC8, complete sequence
+>gi|383080713|ref|NC_017072.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC9, complete sequence
+>gi|383755757|ref|NC_017073.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC3, complete sequence
+>gi|383080718|ref|NC_017074.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC5, complete sequence
+>gi|383755859|ref|NC_017075.1| Rubrivivax gelatinosus IL144, complete genome
+>gi|383760553|ref|NC_017076.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC2, complete sequence
+>gi|383760671|ref|NC_017077.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC7, complete sequence
+>gi|383760688|ref|NC_017078.1| Selenomonas ruminantium subsp. lactilytica TAM6421 plasmid pSRC1, complete sequence
+>gi|383192418|ref|NC_017092.1| Rahnella aquatilis CIP 78.65 = ATCC 33071 plasmid pRahaq203, complete sequence
+>gi|383789243|ref|NC_017098.1| Spirochaeta africana DSM 8902 chromosome, complete genome
+>gi|384120524|ref|NC_017153.1| Yersinia pestis D106004 plasmid pCD1, complete sequence
+>gi|384120592|ref|NC_017154.1| Yersinia pestis D106004 chromosome, complete genome
+>gi|384124222|ref|NC_017155.1| Yersinia pestis D106004 plasmid pMT1, complete sequence
+>gi|384124299|ref|NC_017156.1| Yersinia pestis D106004 plasmid pPCY1, complete sequence
+>gi|384124319|ref|NC_017157.1| Yersinia pestis D182038 plasmid pCD1, complete sequence
+>gi|384124388|ref|NC_017158.1| Yersinia pestis D182038 plasmid pMT1, complete sequence
+>gi|384124309|ref|NC_017159.1| Yersinia pestis D182038 plasmid pPCP1, complete sequence
+>gi|384124469|ref|NC_017160.1| Yersinia pestis D182038 chromosome, complete genome
+>gi|384137007|ref|NC_017168.1| Yersinia pestis A1122 chromosome, complete genome
+>gi|384141139|ref|NC_017169.1| Yersinia pestis A1122 plasmid unnamed, complete sequence
+>gi|384136996|ref|NC_017170.1| Yersinia pestis A1122 plasmid unnamed, complete sequence
+>gi|384410829|ref|NC_017180.1| Zymomonas mobilis subsp. mobilis ATCC 10988 plasmid pZMOB01, complete sequence
+>gi|384410858|ref|NC_017181.1| Zymomonas mobilis subsp. mobilis ATCC 10988 plasmid pZMOB03, complete sequence
+>gi|384410883|ref|NC_017182.1| Zymomonas mobilis subsp. mobilis ATCC 10988 plasmid pZMOB05, complete sequence
+>gi|384410887|ref|NC_017183.1| Zymomonas mobilis subsp. mobilis ATCC 10988 plasmid pZMOB02, complete sequence
+>gi|384410912|ref|NC_017184.1| Zymomonas mobilis subsp. mobilis ATCC 10988 plasmid pZMOB04, complete sequence
+>gi|384410940|ref|NC_017185.1| Zymomonas mobilis subsp. mobilis ATCC 10988 plasmid pZMOBP6, complete sequence
+>gi|384410943|ref|NC_017262.1| Zymomonas mobilis subsp. mobilis ATCC 10988 chromosome, complete genome
+>gi|384412639|ref|NC_017263.1| Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pCD, complete sequence
+>gi|384412693|ref|NC_017264.1| Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pPCP, complete sequence
+>gi|384412706|ref|NC_017265.1| Yersinia pestis biovar Medievalis str. Harbin 35 chromosome, complete genome
+>gi|384416964|ref|NC_017266.1| Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pMT, complete sequence
+>gi|384417079|ref|NC_017267.1| Xanthomonas oryzae pv. oryzicola BLS256 chromosome, complete genome
+>gi|384421554|ref|NC_017268.1| Treponema pallidum subsp. pallidum str. Chicago chromosome, complete genome
+>gi|384422536|ref|NC_017269.1| Vibrio cholerae LMA3984-4 chromosome II, complete sequence
+>gi|384423362|ref|NC_017270.1| Vibrio cholerae LMA3984-4 chromosome chromosome I, complete sequence
+>gi|384425691|ref|NC_017271.1| Xanthomonas campestris pv. raphani 756C chromosome, complete genome
+>gi|384430208|ref|NC_017272.1| Thermus thermophilus SG0.5JP17-16 chromosome, complete genome
+>gi|384432129|ref|NC_017273.1| Thermus thermophilus SG0.5JP17-16 plasmid pTHTHE1601, complete sequence
+>gi|384432549|ref|NC_017274.1| Sulfolobus solfataricus 98/2 chromosome, complete genome
+>gi|385772020|ref|NC_017275.1| Sulfolobus islandicus HVE10/4 chromosome, complete genome
+>gi|385774741|ref|NC_017276.1| Sulfolobus islandicus REY15A chromosome, complete genome
+>gi|384435229|ref|NC_017277.1| Synechocystis sp. PCC 6803, complete genome
+>gi|384438400|ref|NC_017278.1| Thermus sp. CCB_US3_UF1 chromosome, complete genome
+>gi|384545966|ref|NC_017319.1| Shigella flexneri 2002017 plasmid pSFxv_1, complete sequence
+>gi|384541569|ref|NC_017320.1| Shigella flexneri 2002017 plasmid pSFxv_2, complete sequence
+>gi|384545954|ref|NC_017321.1| Shigella flexneri 2002017 plasmid pSFxv_4, complete sequence
+>gi|384528107|ref|NC_017322.1| Sinorhizobium meliloti BL225C chromosome, complete genome
+>gi|384532946|ref|NC_017323.1| Sinorhizobium meliloti BL225C plasmid pSINMEB02, complete sequence
+>gi|384531523|ref|NC_017324.1| Sinorhizobium meliloti BL225C plasmid pSINMEB01, complete sequence
+>gi|384534464|ref|NC_017325.1| Sinorhizobium meliloti SM11 chromosome, complete genome
+>gi|384538250|ref|NC_017326.1| Sinorhizobium meliloti SM11 plasmid pSmeSM11d, complete sequence
+>gi|384539799|ref|NC_017327.1| Sinorhizobium meliloti SM11 plasmid pSmeSM11c, complete sequence
+>gi|384541581|ref|NC_017328.1| Shigella flexneri 2002017 chromosome, complete genome
+>gi|384541560|ref|NC_017329.1| Shigella flexneri 2002017 plasmid pSFxv_3, complete sequence
+>gi|384545959|ref|NC_017330.1| Shigella flexneri 2002017 plasmid pSFxv_5, complete sequence
+>gi|387141638|ref|NC_017331.1| Staphylococcus aureus subsp. aureus TW20, complete genome
+>gi|387144417|ref|NC_017332.1| Staphylococcus aureus subsp. aureus TW20 plasmid pTW20_2, complete sequence
+>gi|387601291|ref|NC_017333.1| Staphylococcus aureus subsp. aureus ST398, complete genome
+>gi|387603991|ref|NC_017334.1| Staphylococcus aureus subsp. aureus ST398 plasmid pS0385-1, complete sequence
+>gi|384551502|ref|NC_017335.1| Staphylococcus aureus subsp. aureus ST398 plasmid pS0385-2, complete sequence
+>gi|387603996|ref|NC_017336.1| Staphylococcus aureus subsp. aureus ST398 plasmid pS0385-3, complete sequence
+>gi|384546269|ref|NC_017337.1| Staphylococcus aureus subsp. aureus ED133 chromosome, complete genome
+>gi|384548923|ref|NC_017338.1| Staphylococcus aureus subsp. aureus JKD6159 chromosome, complete genome
+>gi|384551479|ref|NC_017339.1| Staphylococcus aureus subsp. aureus JKD6159 plasmid pSaa6159, complete sequence
+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+>gi|384860682|ref|NC_017341.1| Staphylococcus aureus subsp. aureus str. JKD6008 chromosome, complete genome
+>gi|384865886|ref|NC_017342.1| Staphylococcus aureus subsp. aureus TCH60 chromosome, complete genome
+>gi|384863396|ref|NC_017343.1| Staphylococcus aureus subsp. aureus ECT-R 2, complete genome
+>gi|384863363|ref|NC_017344.1| Staphylococcus aureus subsp. aureus ECT-R 2 plasmid pLUH02, complete sequence
+>gi|384868560|ref|NC_017345.1| Staphylococcus aureus subsp. aureus TCH60 plasmid unnamed, complete sequence
+>gi|384863394|ref|NC_017346.1| Staphylococcus aureus subsp. aureus ECT-R 2 plasmid pLUH01, complete sequence
+>gi|384868588|ref|NC_017347.1| Staphylococcus aureus subsp. aureus T0131 chromosome, complete genome
+>gi|387781658|ref|NC_017348.1| Staphylococcus aureus subsp. aureus LGA251 plasmid pLGA251, complete sequence
+>gi|387779217|ref|NC_017349.1| Staphylococcus aureus subsp. aureus LGA251, complete genome
+>gi|385782932|ref|NC_017350.1| Staphylococcus aureus subsp. aureus 11819-97 plasmid p11819-97, complete sequence
+>gi|385780298|ref|NC_017351.1| Staphylococcus aureus subsp. aureus 11819-97 chromosome, complete genome
+>gi|387144420|ref|NC_017352.1| Staphylococcus aureus subsp. aureus TW20 plasmid pTW20_1, complete sequence
+>gi|385782956|ref|NC_017353.1| Staphylococcus lugdunensis N920143, complete genome
+>gi|386009639|ref|NC_017530.1| Pseudomonas putida BIRD-1 chromosome, complete genome
+>gi|386018640|ref|NC_017532.1| Pseudomonas stutzeri DSM 4166 chromosome, complete genome
+>gi|386056071|ref|NC_017548.1| Pseudomonas aeruginosa M18 chromosome, complete genome
+>gi|386062973|ref|NC_017549.1| Pseudomonas aeruginosa NCGM2.S1 chromosome 1, complete genome
+>gi|386076359|ref|NC_017555.1| Xanthomonas albilineans GPE PC73 plasmid plasmIII, complete sequence
+>gi|386081561|ref|NC_017556.1| Xanthomonas albilineans GPE PC73 plasmid plasmII, complete sequence
+>gi|386081654|ref|NC_017557.1| Xanthomonas albilineans GPE PC73 plasmid plasmI, complete sequence
+>gi|410683901|ref|NC_017558.1| Ralstonia solanacearum CMR15 plasmid pRSC35, complete genome
+>gi|523408232|ref|NC_017559.1| Ralstonia solanacearum CMR15 chromosome, complete genome
+>gi|386081834|ref|NC_017560.1| Rickettsia prowazekii Rp22 chromosome, complete genome
+>gi|386085388|ref|NC_017561.1| Xylella fastidiosa subsp. fastidiosa GB514 plasmid unnamed, complete sequence
+>gi|386083114|ref|NC_017562.1| Xylella fastidiosa subsp. fastidiosa GB514 chromosome, complete genome
+>gi|386085705|ref|NC_017563.1| Streptococcus thermophilus ND03 chromosome, complete genome
+>gi|386307442|ref|NC_017564.1| Yersinia enterocolitica subsp. palearctica Y11, complete genome
+>gi|386307331|ref|NC_017565.1| Yersinia enterocolitica subsp. palearctica Y11 plasmid pYV03, complete sequence
+>gi|386311792|ref|NC_017566.1| Shewanella putrefaciens 200 chromosome, complete genome
+>gi|386315972|ref|NC_017567.1| Streptococcus dysgalactiae subsp. equisimilis ATCC 12394 chromosome, complete genome
+>gi|386318029|ref|NC_017568.1| Staphylococcus pseudintermedius ED99 chromosome, complete genome
+>gi|386320386|ref|NC_017569.1| Riemerella anatipestifer RA-GD chromosome, complete genome
+>gi|386322427|ref|NC_017570.1| Shewanella baltica BA175 plasmid pSBAL17501, complete sequence
+>gi|386322495|ref|NC_017571.1| Shewanella baltica BA175 chromosome, complete genome
+>gi|386322372|ref|NC_017572.1| Shewanella baltica BA175 plasmid pSBAL17502, complete sequence
+>gi|386326719|ref|NC_017573.1| Serratia sp. AS13 chromosome, complete genome
+>gi|386331671|ref|NC_017574.1| Ralstonia solanacearum Po82 chromosome, complete genome
+>gi|386335008|ref|NC_017575.1| Ralstonia solanacearum Po82 megaplasmid, complete sequence
+>gi|386336689|ref|NC_017576.1| Streptococcus gallolyticus subsp. gallolyticus ATCC 43143, complete genome
+>gi|386343408|ref|NC_017577.1| Shewanella baltica OS117 plasmid pSBAL11701, complete sequence
+>gi|386343535|ref|NC_017578.1| Shewanella baltica OS117 plasmid pSBAL11703, complete sequence
+>gi|386338936|ref|NC_017579.1| Shewanella baltica OS117 chromosome, complete genome
+>gi|386343312|ref|NC_017580.1| Shewanella baltica OS117 plasmid pSBAL11702, complete sequence
+>gi|386343608|ref|NC_017581.1| Streptococcus thermophilus JIM 8232, complete genome
+>gi|386345754|ref|NC_017582.1| Streptococcus equi subsp. zooepidemicus ATCC 35246 chromosome, complete genome
+>gi|386345755|ref|NC_017583.1| Spirochaeta thermophila DSM 6578 chromosome, complete genome
+>gi|386348020|ref|NC_017584.1| Rhodospirillum rubrum F11 chromosome, complete genome
+>gi|386351899|ref|NC_017585.1| Streptomyces cattleya NRRL 8057 = DSM 46488 plasmid pSCATT, complete sequence
+>gi|386353647|ref|NC_017586.1| Streptomyces cattleya NRRL 8057 = DSM 46488 chromosome, complete genome
+>gi|386359470|ref|NC_017587.1| Thermus thermophilus JL-18 chromosome, complete genome
+>gi|386361452|ref|NC_017588.1| Thermus thermophilus JL-18 plasmid pTTJL1801, complete sequence
+>gi|410683947|ref|NC_017589.1| Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+>gi|386361711|ref|NC_017590.1| Thermus thermophilus JL-18 plasmid pTTJL1802, complete sequence
+>gi|387625543|ref|NC_017591.1| Streptococcus pneumoniae INV104, complete genome
+>gi|387756560|ref|NC_017592.1| Streptococcus pneumoniae OXC141, complete genome
+>gi|387758384|ref|NC_017593.1| Streptococcus pneumoniae INV200, complete genome
+>gi|387760314|ref|NC_017594.1| Streptococcus salivarius 57.I chromosome, complete genome
+>gi|387783149|ref|NC_017595.1| Streptococcus salivarius JIM8777, complete genome
+>gi|386361880|ref|NC_017596.1| Streptococcus pyogenes Alab49 chromosome, complete genome
+>gi|386577002|ref|NC_017617.1| Streptococcus suis GZ1 chromosome, complete genome
+>gi|386578980|ref|NC_017618.1| Streptococcus suis JS14 chromosome, complete genome
+>gi|386581047|ref|NC_017619.1| Streptococcus suis SS12 chromosome, complete genome
+>gi|386583127|ref|NC_017620.1| Streptococcus suis D9 chromosome, complete genome
+>gi|386585202|ref|NC_017621.1| Streptococcus suis D12 chromosome, complete genome
+>gi|386587281|ref|NC_017622.1| Streptococcus suis A7 chromosome, complete genome
+>gi|386589256|ref|NC_017623.1| Salmonella enterica subsp. enterica serovar Heidelberg str. B182 chromosome, complete genome
+>gi|386593545|ref|NC_017624.1| Salmonella enterica subsp. enterica serovar Heidelberg str. B182 plasmid pB182_37, complete sequence
+>gi|386716467|ref|NC_017671.1| Stenotrophomonas maltophilia D457, complete genome
+>gi|386727822|ref|NC_017673.1| Staphylococcus aureus subsp. aureus 71193 chromosome, complete genome
+>gi|386730446|ref|NC_017675.1| Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74 plasmid TY474p2, complete sequence
+>gi|386730549|ref|NC_017718.1| Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344 plasmid pCol1B9_SL1344, complete sequence
+>gi|386730646|ref|NC_017719.1| Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344 plasmid pRSF1010_SL1344, complete sequence
+>gi|386730659|ref|NC_017720.1| Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344 plasmid pSLT_SL1344, complete sequence
+>gi|386741417|ref|NC_017731.1| Providencia stuartii MRSN 2154 chromosome, complete genome
+>gi|386829725|ref|NC_017763.1| Staphylococcus aureus subsp. aureus HO 5096 0412, complete genome
+>gi|386836097|ref|NC_017765.1| Streptomyces hygroscopicus subsp. jinggangensis 5008 chromosome, complete genome
+>gi|386835836|ref|NC_017766.1| Streptomyces hygroscopicus subsp. jinggangensis 5008 plasmid pSHJG1, complete sequence
+>gi|387785181|ref|NC_017768.1| Streptococcus mutans LJ23, complete genome
+>gi|387787130|ref|NC_017769.1| Streptococcus pneumoniae ST556 chromosome, complete genome
+>gi|387789281|ref|NC_017770.1| Solitalea canadensis DSM 3403 chromosome, complete genome
+>gi|386644976|ref|NC_017772.1| Pseudonocardia dioxanivorans CB1190 plasmid pPSED02, complete sequence
+>gi|386844997|ref|NC_017773.1| Rahnella aquatilis HX2 plasmid PRA2, complete sequence
+>gi|386844947|ref|NC_017807.1| Rahnella aquatilis HX2 plasmid PRA2, complete sequence
+>gi|387878539|ref|NC_017905.1| Streptococcus parasanguinis FW213 chromosome, complete genome
+>gi|387891255|ref|NC_017911.1| Pseudomonas fluorescens A506 chromosome, complete genome
+>gi|387908808|ref|NC_017927.1| Streptococcus thermophilus MN-ZLW-002 chromosome, complete genome
+>gi|389851449|ref|NC_017946.1| Pyrococcus sp. ST04 chromosome, complete genome
+>gi|389855709|ref|NC_017950.1| Streptococcus suis ST1 chromosome, complete genome
+>gi|389860324|ref|NC_017954.1| Thermogladius cellulolyticus 1633 chromosome, complete genome
+>gi|389875858|ref|NC_017956.1| Tistrella mobilis KA081020-065 chromosome, complete genome
+>gi|442559580|ref|NC_017957.2| Tistrella mobilis KA081020-065 plasmid pTM1, complete sequence
+>gi|389874236|ref|NC_017958.1| Tistrella mobilis KA081020-065 plasmid pTM3, complete sequence
+>gi|389875179|ref|NC_017959.1| Tistrella mobilis KA081020-065 plasmid pTM4, complete sequence
+>gi|389879423|ref|NC_017966.1| Tistrella mobilis KA081020-065 plasmid pTM2, complete sequence
+>gi|395443650|ref|NC_017986.1| Pseudomonas putida ND6 chromosome, complete genome
+>gi|390933132|ref|NC_017992.1| Thermoanaerobacterium saccharolyticum JW/SL-YS485 chromosome, complete genome
+>gi|390935776|ref|NC_017998.1| Thermoanaerobacterium saccharolyticum JW/SL-YS485 plasmid pMU3262, complete sequence
+>gi|398349897|ref|NC_018000.1| Sinorhizobium fredii USDA 257 chromosome, complete genome
+>gi|390939174|ref|NC_018002.1| Sulfurospirillum barnesii SES-3 chromosome, complete genome
+>gi|390948458|ref|NC_018012.1| Thiocystis violascens DSM 198 chromosome, complete genome
+>gi|390955930|ref|NC_018014.1| Terriglobus roseus DSM 18391 chromosome, complete genome
+>gi|390960176|ref|NC_018015.1| Thermococcus sp. CL1 chromosome, complete genome
+>gi|392401586|ref|NC_018020.1| Turneriella parva DSM 21527 chromosome, complete genome
+>gi|392405697|ref|NC_018021.1| Turneriella parva DSM 21527 plasmid pTURPA.01, complete sequence
+>gi|392419087|ref|NC_018028.1| Pseudomonas stutzeri CCUG 29243 chromosome, complete genome
+>gi|393198727|ref|NC_018065.1| Solibacillus silvestris StLB046, complete genome
+>gi|393202538|ref|NC_018069.1| Solibacillus silvestris StLB046 plasmid pSSIL1, complete sequence
+>gi|392427891|ref|NC_018073.1| Streptococcus intermedius JTH08, complete genome
+>gi|392981410|ref|NC_018080.1| Pseudomonas aeruginosa DK2 chromosome, complete genome
+>gi|397648808|ref|NC_018089.1| Streptococcus mutans GS-5 chromosome, complete genome
+>gi|397650687|ref|NC_018092.1| Pyrococcus furiosus COM1 chromosome, complete genome
+>gi|397661013|ref|NC_018108.1| Taylorella equigenitalis ATCC 35865 chromosome, complete genome
+>gi|397668839|ref|NC_018142.1| Propionibacterium propionicum F0230a chromosome, complete genome
+>gi|397675890|ref|NC_018145.1| Zymomonas mobilis subsp. mobilis ATCC 29191 chromosome, complete genome
+>gi|397677586|ref|NC_018146.1| Zymomonas mobilis subsp. mobilis ATCC 29191 plasmid pZZ6.01, complete sequence
+>gi|397677566|ref|NC_018147.1| Zymomonas mobilis subsp. mobilis ATCC 29191 plasmid pZZ6.02, complete sequence
+>gi|397677555|ref|NC_018148.1| Zymomonas mobilis subsp. mobilis ATCC 29191 plasmid pZZ6.03, complete sequence
+>gi|397685123|ref|NC_018177.1| Pseudomonas stutzeri DSM 10701 chromosome, complete genome
+>gi|400752653|ref|NC_018179.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|400752836|ref|NC_018180.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|400752883|ref|NC_018181.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356013|ref|NC_018182.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356025|ref|NC_018183.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356040|ref|NC_018184.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356048|ref|NC_018185.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356063|ref|NC_018186.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356072|ref|NC_018187.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356080|ref|NC_018188.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356087|ref|NC_018189.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356091|ref|NC_018190.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356092|ref|NC_018191.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356314|ref|NC_018192.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356354|ref|NC_018193.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356370|ref|NC_018194.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|397701677|ref|NC_018195.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356381|ref|NC_018196.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|398356390|ref|NC_018197.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257, complete sequence
+>gi|397692770|ref|NC_018220.1| Pseudomonas putida DOT-T1E chromosome, complete genome
+>gi|397912605|ref|NC_018264.1| Thermoanaerobacterium phage THSA-485A, complete genome
+>gi|402496444|ref|NC_018267.1| Wolbachia endosymbiont of Onchocerca ochengi, complete genome
+>gi|399498678|ref|NC_018285.1| Streptococcus phage YMC-2011, complete genome
+>gi|399994762|ref|NC_018293.1| Sinorhizobium fredii HH103 plasmid pSfHH103d, partial sequence
+>gi|399995009|ref|NC_018294.1| Sinorhizobium fredii HH103 plasmid pSfHH103d, partial sequence
+>gi|399995314|ref|NC_018299.1| Sinorhizobium fredii HH103 plasmid pSfHH103d, partial sequence
+>gi|399995567|ref|NC_018303.1| Sinorhizobium fredii HH103 plasmid pSfHH103d, partial sequence
+>gi|399912627|ref|NC_018304.1| Sinorhizobium fredii HH103 plasmid pSfHH103d, partial sequence
+>gi|400404978|ref|NC_018419.1| Secondary endosymbiont of Ctenarytaina eucalypti chromosome, complete genome
+>gi|400406007|ref|NC_018420.1| Secondary endosymbiont of Heteropsylla cubana chromosome, complete genome
+>gi|403060703|ref|NC_018526.1| Streptococcus suis S735 chromosome, complete genome
+>gi|405759923|ref|NC_018594.1| Streptococcus pneumoniae SPNA45, complete genome
+>gi|404477334|ref|NC_018608.1| Staphylococcus aureus 08BA02176 chromosome, complete genome
+>gi|407450786|ref|NC_018609.1| Riemerella anatipestifer RA-CH-1 chromosome, complete genome
+>gi|410475457|ref|NC_018630.1| Streptococcus pneumoniae gamPNI0373 chromosome, complete genome
+>gi|406705597|ref|NC_018643.1| Alpha proteobacterium HIMB5 chromosome, complete genome
+>gi|406707029|ref|NC_018644.1| Alpha proteobacterium HIMB59 chromosome, complete genome
+>gi|406708523|ref|NC_018646.1| Streptococcus agalactiae GD201008-001 chromosome, complete genome
+>gi|407689766|ref|NC_018682.1| Sinorhizobium meliloti Rm41 plasmid pRM41A, complete sequence
+>gi|407690004|ref|NC_018683.1| Sinorhizobium meliloti Rm41 plasmid pSYMA, complete sequence
+>gi|407719209|ref|NC_018700.1| Sinorhizobium meliloti Rm41, complete genome
+>gi|407722709|ref|NC_018701.1| Sinorhizobium meliloti Rm41 plasmid pSYMB, complete sequence
+>gi|408400746|ref|NC_018712.1| Streptococcus dysgalactiae subsp. equisimilis RE378, complete genome
+>gi|408489461|ref|NC_018721.1| Psychroflexus torquis ATCC 700755 chromosome, complete genome
+>gi|408501912|ref|NC_018722.1| Treponema pallidum subsp. pallidum str. Mexico A chromosome, complete genome
+>gi|408669191|ref|NC_018746.1| Pseudomonas putida ND6 plasmid pND6-2, complete sequence
+>gi|408675720|ref|NC_018750.1| Streptomyces venezuelae ATCC 10712, complete genome
+>gi|511767220|ref|NC_018868.3| Simiduia agarivorans SA1 = DSM 21679, complete genome
+>gi|409131816|ref|NC_018870.1| Thermacetogenium phaeum DSM 12270 chromosome, complete genome
+>gi|409913960|ref|NC_018936.1| Streptococcus pyogenes A20 chromosome, complete genome
+>gi|410475456|ref|NC_019042.1| Streptococcus dysgalactiae subsp. equisimilis AC-2713, complete genome
+>gi|410593712|ref|NC_019048.1| Streptococcus agalactiae SA20-06 chromosome, complete genome
+>gi|410731267|ref|NC_019386.1| Thermus oshimai JL-2, complete genome
+>gi|410730941|ref|NC_019387.1| Thermus oshimai JL-2 plasmid pTHEOS01, complete sequence
+>gi|410731195|ref|NC_019388.1| Thermus oshimai JL-2 plasmid pTHEOS02, complete sequence
+>gi|426400511|ref|NC_019566.1| Candidatus Endolissoclinum patella L2 chromosome, complete genome
+>gi|426406915|ref|NC_019670.1| Pseudomonas sp. UW4 chromosome, complete genome
+>gi|433601838|ref|NC_019673.1| Saccharothrix espanaensis DSM 44229 complete genome
+>gi|427733619|ref|NC_019678.1| Rivularia sp. PCC 7116 chromosome, complete genome
+>gi|427740400|ref|NC_019679.1| Rivularia sp. PCC 7116 plasmid pRIV7116.01, complete sequence
+>gi|427711179|ref|NC_019680.1| Synechococcus sp. PCC 6312 chromosome, complete genome
+>gi|427714745|ref|NC_019681.1| Synechococcus sp. PCC 6312 plasmid pSYN6312.01, complete sequence
+>gi|427740454|ref|NC_019686.1| Rivularia sp. PCC 7116 plasmid pRIV7116.02, complete sequence
+>gi|428219846|ref|NC_019690.1| Pseudanabaena sp. PCC 7367 plasmid pPSE7367.01, complete sequence
+>gi|428223389|ref|NC_019691.1| Synechococcus sp. PCC 7502 plasmid pSYN7502.01, complete sequence
+>gi|428223448|ref|NC_019692.1| Synechococcus sp. PCC 7502 plasmid pSYN7502.02, complete sequence
+>gi|428216284|ref|NC_019701.1| Pseudanabaena sp. PCC 7367 chromosome, complete genome
+>gi|428220140|ref|NC_019702.1| Synechococcus sp. PCC 7502 chromosome, complete genome
+>gi|434396591|ref|NC_019748.1| Stanieria cyanosphaera PCC 7437, complete genome
+>gi|434401063|ref|NC_019749.1| Stanieria cyanosphaera PCC 7437 plasmid pSTA7437.02, complete sequence
+>gi|434401190|ref|NC_019750.1| Stanieria cyanosphaera PCC 7437 plasmid pSTA7437.03, complete sequence
+>gi|434408264|ref|NC_019765.1| Stanieria cyanosphaera PCC 7437 plasmid pSTA7437.01, complete sequence
+>gi|434408556|ref|NC_019766.1| Stanieria cyanosphaera PCC 7437 plasmid pSTA7437.05, complete sequence
+>gi|433611795|ref|NC_019845.1| Sinorhizobium meliloti GR4, complete genome
+>gi|433615115|ref|NC_019846.1| Sinorhizobium meliloti GR4 plasmid pRmeGR4a, complete sequence
+>gi|433615300|ref|NC_019847.1| Sinorhizobium meliloti GR4 plasmid pRmeGR4b, complete sequence
+>gi|433615547|ref|NC_019848.1| Sinorhizobium meliloti GR4 plasmid pRmeGR4c, complete sequence
+>gi|433610266|ref|NC_019849.1| Sinorhizobium meliloti GR4 plasmid pRmeGR4d, complete sequence
+>gi|430741030|ref|NC_019892.1| Singulisphaera acidiphila DSM 18658 chromosome, complete genome
+>gi|430740944|ref|NC_019893.1| Singulisphaera acidiphila DSM 18658 plasmid pSINAC01, complete sequence
+>gi|430740975|ref|NC_019894.1| Singulisphaera acidiphila DSM 18658 plasmid pSINAC02, complete sequence
+>gi|430748167|ref|NC_019895.1| Singulisphaera acidiphila DSM 18658 plasmid pSINAC03, complete sequence
+>gi|430748349|ref|NC_019897.1| Thermobacillus composti KWC4 chromosome, complete genome
+>gi|430748199|ref|NC_019898.1| Thermobacillus composti KWC4 plasmid pTHECO01, complete sequence
+>gi|430759339|ref|NC_019902.1| Thioalkalivibrio nitratireducens DSM 14787, complete genome
+>gi|431799958|ref|NC_019905.1| Pseudomonas putida HB3267, complete genome
+>gi|431805251|ref|NC_019906.1| Pseudomonas putida HB3267 plasmid pPC9, complete sequence
+>gi|431805346|ref|NC_019907.1| Liberibacter crescens BT-1 chromosome, complete genome
+>gi|431925209|ref|NC_019936.1| Pseudomonas stutzeri RCH2 chromosome, complete genome
+>gi|431929445|ref|NC_019937.1| Pseudomonas stutzeri RCH2 plasmid pPSEST01, complete sequence
+>gi|431925193|ref|NC_019938.1| Pseudomonas stutzeri RCH2 plasmid pPSEST02, complete sequence
+>gi|431929441|ref|NC_019939.1| Pseudomonas stutzeri RCH2 plasmid pPSEST03, complete sequence
+>gi|431929462|ref|NC_019940.1| Thioflavicoccus mobilis 8321 chromosome, complete genome
+>gi|431932943|ref|NC_019941.1| Thioflavicoccus mobilis 8321 plasmid pTHIMO01, complete sequence
+>gi|555077094|ref|NC_019954.2| Tepidanaerobacter acetatoxydans Re1 complete genome
+>gi|433656322|ref|NC_019955.1| Vibrio parahaemolyticus BB22OP chromosome 1, complete sequence
+>gi|433653606|ref|NC_019956.1| Thermoanaerobacterium thermosaccharolyticum M0795 plasmid pTHETHE01, complete sequence
+>gi|433653743|ref|NC_019970.1| Thermoanaerobacterium thermosaccharolyticum M0795, complete genome
+>gi|433659170|ref|NC_019971.1| Vibrio parahaemolyticus BB22OP chromosome 2, complete sequence
+>gi|436736068|ref|NC_020052.1| Stanieria cyanosphaera PCC 7437 plasmid pSTA7437.04, complete sequence
+>gi|440224888|ref|NC_020059.1| Rhizobium tropici CIAT 899, complete genome
+>gi|440228565|ref|NC_020060.1| Rhizobium tropici CIAT 899 plasmid pRtrCIAT899a, complete sequence
+>gi|440222456|ref|NC_020061.1| Rhizobium tropici CIAT 899 plasmid pRtrCIAT899b, complete sequence
+>gi|440222965|ref|NC_020062.1| Rhizobium tropici CIAT 899 plasmid pRtrCIAT899c, complete sequence
+>gi|440228796|ref|NC_020064.1| Serratia marcescens FGI94, complete genome
+>gi|442313696|ref|NC_020125.1| Riemerella anatipestifer RA-CH-2, complete genome
+>gi|445058371|ref|NC_020164.1| Staphylococcus warneri SG1, complete genome
+>gi|445060929|ref|NC_020165.1| Staphylococcus warneri SG1 plasmid pSZ4, complete sequence
+>gi|447915004|ref|NC_020209.1| Pseudomonas poae RE*1-1-14, complete genome
+>gi|448239774|ref|NC_020211.1| Serratia marcescens WW4, complete genome
+>gi|448239770|ref|NC_020212.1| Serratia marcescens WW4 plasmid pSmWW4, complete sequence
+>gi|449066047|ref|NC_020246.1| Sulfolobus acidocaldarius N8, complete genome
+>gi|449068323|ref|NC_020247.1| Sulfolobus acidocaldarius Ron12/I, complete genome
+>gi|449338574|ref|NC_020264.1| Staphylococcus warneri SG1 plasmid clone pvSw2 genomic sequence
+>gi|449338585|ref|NC_020265.1| Staphylococcus warneri SG1 plasmid clone pvSw3 genomic sequence
+>gi|449338590|ref|NC_020266.1| Staphylococcus warneri SG1 plasmid clone pvSw4 genomic sequence
+>gi|449338615|ref|NC_020267.1| Staphylococcus warneri SG1 plasmid clone pvSw5 genomic sequence
+>gi|449338638|ref|NC_020268.1| Staphylococcus warneri SG1 plasmid clone pvSw6 genomic sequence
+>gi|449338649|ref|NC_020269.1| Staphylococcus warneri SG1 plasmid clone pvSw7 genomic sequence
+>gi|462045533|ref|NC_020274.1| Staphylococcus warneri SG1 plasmid clone pvSw1 genomic sequence
+>gi|451813329|ref|NC_020286.1| Synechocystis sp. PCC 6803, complete genome
+>gi|451816673|ref|NC_020287.1| Synechocystis sp. PCC 6803 plasmid pSYSA_M, complete sequence
+>gi|451816489|ref|NC_020288.1| Synechocystis sp. PCC 6803 plasmid pSYSG_M, complete sequence
+>gi|451816539|ref|NC_020289.1| Synechocystis sp. PCC 6803 plasmid pCA2.4_M, complete sequence
+>gi|451816781|ref|NC_020290.1| Synechocystis sp. PCC 6803 plasmid pCC5.2_M, complete sequence
+>gi|457866851|ref|NC_020293.1| Streptomyces hygroscopicus subsp. jinggangensis TL01 plasmid pSHJGH2, complete genome
+>gi|451816542|ref|NC_020296.1| Synechocystis sp. PCC 6803 plasmid pSYSM_M, complete sequence
+>gi|451816787|ref|NC_020297.1| Synechocystis sp. PCC 6803 plasmid pSYSX_M, complete sequence
+>gi|451816777|ref|NC_020298.1| Synechocystis sp. PCC 6803 plasmid pCB2.4_M, complete sequence
+>gi|452119509|ref|NC_020306.1| Salmonella enterica subsp. enterica serovar Javiana str. CFSAN001992 plasmid pCFSAN001992_1, complete sequence
+>gi|452119554|ref|NC_020307.1| Salmonella enterica subsp. enterica serovar Javiana str. CFSAN001992, complete genome
+>gi|452119535|ref|NC_020308.1| Salmonella enterica subsp. enterica serovar Javiana str. CFSAN001992 plasmid pCFSAN001992_2, complete sequence
+>gi|456062337|ref|NC_020417.1| Beta proteobacterium CB, complete genome
+>gi|455743294|ref|NC_020419.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 DNA, complete genome
+>gi|455743321|ref|NC_020420.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 plasmid pTGRD1 DNA, complete sequence
+>gi|455743332|ref|NC_020421.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 plasmid pTGRD2 DNA, complete sequence
+>gi|455743340|ref|NC_020422.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 plasmid pTGRD3 DNA, complete sequence
+>gi|476409181|ref|NC_020503.1| Uncultured Sulfuricurvum sp. RIFRC-1 plasmid, complete sequence
+>gi|471319476|ref|NC_020504.1| Streptomyces davawensis JCM 4913, complete genome
+>gi|476409183|ref|NC_020505.1| Uncultured Sulfuricurvum sp. RIFRC-1, complete genome
+>gi|476419016|ref|NC_020526.1| Streptococcus suis SC070731, complete genome
+>gi|470183972|ref|NC_020527.1| Sinorhizobium meliloti 2011 plasmid pSymA, complete sequence
+>gi|470186955|ref|NC_020528.1| Sinorhizobium meliloti 2011, complete genome
+>gi|470190315|ref|NC_020529.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 10388
+>gi|472455754|ref|NC_020530.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI1T1 complete sequence, isolate 10388
+>gi|472455776|ref|NC_020531.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI2T2 complete sequence, isolate 10497
+>gi|470192280|ref|NC_020532.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 15532
+>gi|470194245|ref|NC_020533.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 16035
+>gi|469816271|ref|NC_020534.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI4T8 complete sequence, isolate 16035
+>gi|469816294|ref|NC_020535.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI5S5 complete sequence, isolate 16125
+>gi|470196211|ref|NC_020536.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 18341
+>gi|470198176|ref|NC_020537.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 18412
+>gi|472455798|ref|NC_020538.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI7S6 complete sequence, isolate 18412
+>gi|469816323|ref|NC_020539.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI8T7 complete sequence, isolate 18583
+>gi|523414886|ref|NC_020540.2| Streptococcus pyogenes M1 476 DNA, complete genome
+>gi|469816339|ref|NC_020541.1| Rhodanobacter sp. 2APBS1, complete genome
+>gi|472433664|ref|NC_020542.1| Sphingomonas sp. MM-1 plasmid pISP0, complete sequence
+>gi|472434164|ref|NC_020543.1| Sphingomonas sp. MM-1 plasmid pISP2, complete sequence
+>gi|472433924|ref|NC_020544.1| Sphingomonas sp. MM-1 plasmid pISP3, complete sequence
+>gi|471327980|ref|NC_020545.1| Streptomyces davawensis JCM 4913 plasmid pSDA1, complete sequence
+>gi|470185371|ref|NC_020560.1| Sinorhizobium meliloti 2011 plasmid pSymB, complete sequence
+>gi|470211964|ref|NC_020561.1| Sphingomonas sp. MM-1, complete genome
+>gi|472433974|ref|NC_020562.1| Sphingomonas sp. MM-1 plasmid pISP1, complete sequence
+>gi|485191029|ref|NC_020563.2| Sphingomonas sp. MM-1 plasmid pISP4, complete sequence
+>gi|470217946|ref|NC_020564.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 10497
+>gi|469823627|ref|NC_020565.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI3T3 complete sequence, isolate 15532
+>gi|470221770|ref|NC_020566.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 16125
+>gi|472455813|ref|NC_020567.1| Staphylococcus aureus subsp. aureus ST228 plasmid pI6T6 complete sequence, isolate 18341
+>gi|470223734|ref|NC_020568.1| Staphylococcus aureus subsp. aureus ST228 complete genome, isolate 18583
+>gi|470464772|ref|NC_020797.1| Xanthomonas axonopodis Xac29-1 plasmid pXAC64, complete sequence
+>gi|470464927|ref|NC_020798.1| Xanthomonas axonopodis Xac29-1 plasmid pXAC47, complete sequence
+>gi|525968348|ref|NC_020799.1| Ralstonia solanacearum FQY_4, complete genome
+>gi|470469929|ref|NC_020800.1| Xanthomonas axonopodis Xac29-1, complete genome
+>gi|470474282|ref|NC_020801.1| Xanthomonas axonopodis Xac29-1 plasmid pXAC33, complete sequence
+>gi|470478036|ref|NC_020802.1| Psychromonas sp. CNPT3, complete genome
+>gi|471265562|ref|NC_020815.1| Xanthomonas citri subsp. citri Aw12879, complete genome
+>gi|471265475|ref|NC_020816.1| Xanthomonas citri subsp. citri Aw12879 plasmid pXcaw19, complete genome
+>gi|471265493|ref|NC_020817.1| Xanthomonas citri subsp. citri Aw12879 plasmid pXcaw58, complete genome
+>gi|472323176|ref|NC_020829.1| Pseudomonas denitrificans ATCC 13867, complete genome
+>gi|473827406|ref|NC_020888.1| Thalassolituus oleivorans MIL-1 complete genome
+>gi|474933593|ref|NC_020892.1| Thermoplasmatales archaeon BRNA1, complete genome
+>gi|474987154|ref|NC_020894.1| Streptomyces hygroscopicus subsp. jinggangensis TL01 plasmid pSHJGH1, complete genome
+>gi|474978534|ref|NC_020895.1| Streptomyces hygroscopicus subsp. jinggangensis TL01, complete genome
+>gi|478476202|ref|NC_020912.1| Pseudomonas aeruginosa B136-33, complete genome
+>gi|478482031|ref|NC_020913.1| Candidatus Methanomethylophilus alvus Mx1201, complete genome
+>gi|478686601|ref|NC_020990.1| Streptomyces albus J1074, complete genome
+>gi|478692434|ref|NC_020992.1| Rickettsia prowazekii str. NMRC Madrid E, complete genome
+>gi|478693373|ref|NC_020993.1| Rickettsia prowazekii str. Breinl, complete genome
+>gi|479134147|ref|NC_021003.1| Streptococcus pneumoniae SPN032672 draft genome
+>gi|479134154|ref|NC_021004.1| Streptococcus pneumoniae SPN033038 draft genome
+>gi|480530348|ref|NC_021005.1| Streptococcus pneumoniae SPN994039 draft genome
+>gi|480532168|ref|NC_021006.1| Streptococcus pneumoniae SPN034156 draft genome
+>gi|479146200|ref|NC_021012.1| Roseburia intestinalis XB6B4 draft genome
+>gi|479150083|ref|NC_021013.1| Ruminococcus bromii L2-63 draft genome
+>gi|479152295|ref|NC_021014.1| Ruminococcus sp. SR1/5 draft genome
+>gi|479155735|ref|NC_021015.1| Ruminococcus torques L2-14 draft genome
+>gi|479158859|ref|NC_021016.1| Butyrate-producing bacterium SSC/2, complete genome
+>gi|479176048|ref|NC_021022.1| Ruminococcus obeum A2-162 draft genome
+>gi|479181986|ref|NC_021024.1| Butyrate-producing bacterium SM4/1, complete genome
+>gi|480533968|ref|NC_021026.1| Streptococcus pneumoniae SPN994038 draft genome
+>gi|480535788|ref|NC_021028.1| Streptococcus pneumoniae SPN034183 draft genome
+>gi|479191087|ref|NC_021033.1| Taylorella asinigenitalis 14/45 draft genome
+>gi|479192860|ref|NC_021035.1| Butyrate-producing bacterium SS3/4, complete genome
+>gi|479196022|ref|NC_021036.1| Taylorella equigenitalis 14/56 draft genome
+>gi|479197640|ref|NC_021038.1| Synergistetes bacterium SGP1, complete genome
+>gi|479199283|ref|NC_021039.1| Ruminococcus champanellensis 18P13, complete genome
+>gi|479201824|ref|NC_021040.1| Roseburia intestinalis M50/1 draft genome
+>gi|479316944|ref|NC_021055.1| Streptomyces sp. PAMC26508, complete genome
+>gi|479323914|ref|NC_021056.1| Streptomyces sp. PAMC26508 plasmid pSP01, complete sequence
+>gi|479324431|ref|NC_021058.1| Sulfolobus islandicus LAL14/1, complete genome
+>gi|479328021|ref|NC_021059.1| Staphylococcus aureus M1 complete genome
+>gi|479330719|ref|NC_021060.1| Staphylococcus aureus M1 plasmid pSK67-M1, complete sequence
+>gi|480328235|ref|NC_021064.1| Propionibacterium avidum 44067, complete genome
+>gi|481847813|ref|NC_021066.1| Raoultella ornithinolytica B6, complete genome
+>gi|482888170|ref|NC_021084.1| Wolbachia endosymbiont of Drosophila simulans wNo, complete genome
+>gi|482891467|ref|NC_021089.1| Wolbachia endosymbiont of Drosophila simulans wHa, complete genome
+>gi|482902549|ref|NC_021151.1| Salmonella enterica subsp. enterica serovar Typhimurium str. U288, complete genome
+>gi|482907133|ref|NC_021155.1| Salmonella enterica subsp. enterica serovar Typhimurium str. U288 plasmid pSTU288-1, complete sequence
+>gi|482907335|ref|NC_021156.1| Salmonella enterica subsp. enterica serovar Typhimurium str. U288 plasmid pSTU288-2, complete sequence
+>gi|482907348|ref|NC_021157.1| Salmonella enterica subsp. enterica serovar Typhimurium str. U288 plasmid pSTU288-3, complete sequence
+>gi|488650489|ref|NC_021175.1| Streptococcus oligofermentans AS 1.3089, complete genome
+>gi|488652559|ref|NC_021176.1| Salmonella enterica subsp. enterica serovar Typhi str. Ty21a, complete genome
+>gi|488607535|ref|NC_021177.1| Streptomyces fulvissimus DSM 40593 chromosome, complete genome
+>gi|488657416|ref|NC_021179.1| Treponema pallidum str. Fribourg-Blanc, complete genome
+>gi|494702401|ref|NC_021195.1| Streptococcus agalactiae 2-22, complete genome
+>gi|499142348|ref|NC_021213.1| Streptococcus suis TL13, complete genome
+>gi|499078742|ref|NC_021214.1| Thermotoga maritima MSB8, complete genome
+>gi|501675884|ref|NC_021236.1| Strawberry lethal yellows phytoplasma (CPA) str. NZSb11, complete genome
+>gi|501677485|ref|NC_021237.1| Pseudomonas protegens CHA0, complete genome
+>gi|507379056|ref|NC_021280.1| Spiroplasma chrysopicola DF-1, complete genome
+>gi|507383177|ref|NC_021284.1| Spiroplasma syrphidicola EA-1, complete genome
+>gi|510880085|ref|NC_021313.1| Salinarchaeum sp. Harcht-Bsk1, complete genome
+>gi|508126650|ref|NC_021314.1| Streptococcus iniae SF1, complete genome
+>gi|510414827|ref|NC_021361.1| Pseudomonas fluorescens A506 plasmid pA506, complete sequence
+>gi|512538239|ref|NC_021485.1| Streptococcus agalactiae 09mas018883 complete genome
+>gi|512543719|ref|NC_021486.1| Streptococcus agalactiae ILRI005 complete genome
+>gi|521094209|ref|NC_021490.2| Treponema pallidum subsp. pallidum str. Nichols, complete genome
+>gi|512576139|ref|NC_021491.1| Pseudomonas putida H8234, complete genome
+>gi|512615653|ref|NC_021499.1| Pseudomonas resinovorans NBRC 106553 DNA, complete geonome
+>gi|512683057|ref|NC_021505.1| Pseudomonas putida NBRC 14164 DNA, complete genome
+>gi|512689975|ref|NC_021506.1| Pseudomonas resinovorans NBRC 106553 plasmid pCAR1.3 DNA, complete genome
+>gi|512697424|ref|NC_021507.1| Streptococcus agalactiae ILRI112 complete genome
+>gi|512443503|ref|NC_021508.1| Treponema pallidum subsp. pallidum SS14, complete genome
+>gi|514064933|ref|NC_021552.1| Staphylococcus aureus CA-347 plasmid, complete sequence
+>gi|514064966|ref|NC_021554.1| Staphylococcus aureus CA-347, complete genome
+>gi|514407635|ref|NC_021577.1| Pseudomonas aeruginosa RP73, complete genome
+>gi|518646702|ref|NC_021591.1| Serratia plymuthica 4Rx13, complete genome
+>gi|518658687|ref|NC_021594.1| Serratia plymuthica 4Rx13 plasmid p75, complete sequence
+>gi|521147365|ref|NC_021657.1| Staphylococcus aureus Bmb9393 plasmid pBmb9393, complete genome
+>gi|521458881|ref|NC_021658.1| Sorangium cellulosum So0157-2, complete genome
+>gi|521166214|ref|NC_021659.1| Serratia plymuthica S13, complete genome
+>gi|521178150|ref|NC_021661.1| Psychrobacter sp. G, complete genome
+>gi|521182576|ref|NC_021662.1| Psychrobacter sp. G plasmid PsyG_4, complete sequence
+>gi|521205802|ref|NC_021668.1| Psychrobacter sp. G plasmid PsyG_26, complete sequence
+>gi|521206439|ref|NC_021669.1| Psychrobacter sp. G plasmid PsyG_3, complete sequence
+>gi|521210823|ref|NC_021670.1| Staphylococcus aureus Bmb9393, complete genome
+>gi|525689963|ref|NC_021741.1| Serratia liquefaciens ATCC 27592, complete genome
+>gi|525695032|ref|NC_021742.1| Serratia liquefaciens ATCC 27592 plasmid, complete sequence
+>gi|525710956|ref|NC_021745.1| Ralstonia solanacearum FQY_4 megaplasmid, partial sequence
+>gi|525808973|ref|NC_021807.1| Streptococcus pyogenes HSC5, complete genome
+>gi|525814190|ref|NC_021810.1| Salmonella enterica subsp. enterica serovar Heidelberg str. 41578, complete genome
+>gi|525811113|ref|NC_021811.1| Salmonella enterica subsp. enterica serovar Heidelberg str. 41578 plasmid pSEEH1578_01, complete sequence
+>gi|559996969|ref|NC_021812.2| Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069, complete genome
+>gi|559997377|ref|NC_021813.2| Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069 plasmid pCFSAN002069_01, complete sequence
+>gi|525836786|ref|NC_021814.1| Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921, complete genome
+>gi|525832341|ref|NC_021815.1| Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921 plasmid unnamed, complete sequence
+>gi|525832829|ref|NC_021816.1| Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921 plasmid unnamed, complete sequence
+>gi|525833502|ref|NC_021817.1| Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189 plasmid unnamed, complete sequence
+>gi|525855729|ref|NC_021818.1| Salmonella enterica subsp. enterica Serovar Cubana str. CFSAN002050, complete genome
+>gi|525842565|ref|NC_021819.1| Salmonella enterica subsp. enterica Serovar Cubana str. CFSAN002050 plasmid, complete sequence
+>gi|526218030|ref|NC_021820.1| Salmonella enterica subsp. enterica serovar Typhimurium str. 08-1736, complete genome
+>gi|525847173|ref|NC_021821.1| Vibrio parahaemolyticus O1:Kuk str. FDA_R31 chromosome II, complete sequence
+>gi|525852846|ref|NC_021822.1| Vibrio parahaemolyticus O1:K33 str. CDC_K4557 chromosome II, complete sequence
+>gi|525865813|ref|NC_021823.1| Listeria monocytogenes strain C1-387, complete genome
+>gi|525869762|ref|NC_021824.1| Listeria monocytogenes strain J2-064, complete genome
+>gi|525877702|ref|NC_021825.1| Listeria monocytogenes strain J2-1091, complete genome
+>gi|525886094|ref|NC_021826.1| Listeria monocytogenes strain N1-011A, complete genome
+>gi|525896797|ref|NC_021827.1| Listeria monocytogenes strain J1817, complete genome
+>gi|525901154|ref|NC_021828.1| Listeria monocytogenes strain R2-502 plasmid, complete sequence
+>gi|525905724|ref|NC_021832.1| Spiroplasma taiwanense CT-1 plasmid, complete sequence
+>gi|525908085|ref|NC_021833.1| Spiroplasma diminutum CUAS-1, complete genome
+>gi|525911748|ref|NC_021834.1| Campylobacter jejuni 32488, complete sequence
+>gi|525916939|ref|NC_021837.1| Listeria monocytogenes strain J2-031, complete genome
+>gi|525924641|ref|NC_021838.1| Listeria monocytogenes strain R2-502, complete genome
+>gi|525929673|ref|NC_021839.1| Listeria monocytogenes strain J1776, complete genome
+>gi|525934212|ref|NC_021840.1| Listeria monocytogenes strain J1926, complete genome
+>gi|525932970|ref|NC_021841.1| Salmonella enterica subsp. enterica serovar Heidelberg str. 41578 plasmid pSEEH1578_02, complete sequence
+>gi|560036461|ref|NC_021842.2| Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069 plasmid pCFSAN002069_02, complete sequence
+>gi|525933418|ref|NC_021843.1| Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921 plasmid unnamed, complete sequence
+>gi|525945526|ref|NC_021844.1| Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189, complete genome
+>gi|525937625|ref|NC_021845.1| Salmonella enterica subsp. enterica Serovar Cubana str. CFSAN002050 plasmid, complete sequence
+>gi|525938956|ref|NC_021846.1| Spiroplasma taiwanense CT-1, complete genome
+>gi|525949893|ref|NC_021847.1| Vibrio parahaemolyticus O1:Kuk str. FDA_R31 chromosome I, complete sequence
+>gi|525957490|ref|NC_021848.1| Vibrio parahaemolyticus O1:K33 str. CDC_K4557 chromosome I, complete sequence
+>gi|526222927|ref|NC_021869.1| Salmonella enterica subsp. enterica serovar Heidelberg str. 41578 plasmid pSEEH1578_03, complete sequence
+>gi|526225953|ref|NC_021870.1| Salmonella bongori N268-08, complete genome
+>gi|526230592|ref|NC_021871.1| Salmonella bongori N268-08 plasmid RM1, complete sequence
+>gi|527317437|ref|NC_021885.1| Syncytium symbiont of Diaphorina citri, complete genome
+>gi|527317804|ref|NC_021886.1| Syncytium symbiont of Diaphorina citri plasmid, complete sequence
+>gi|527329219|ref|NC_021900.1| Streptococcus lutetiensis 033, complete genome
+>gi|528816716|ref|NC_021902.1| Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1, complete genome
+>gi|528826861|ref|NC_021905.1| Rhizobium etli bv. mimosae str. Mim1, complete genome
+>gi|528830926|ref|NC_021906.1| Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1a, complete sequence
+>gi|528831098|ref|NC_021907.1| Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1b, complete sequence
+>gi|528832486|ref|NC_021908.1| Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1d, complete sequence
+>gi|528834105|ref|NC_021909.1| Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1e, complete sequence
+>gi|528835310|ref|NC_021910.1| Rhizobium etli bv. mimosae str. Mim1 plasmid pRetNIM1c, complete sequence
+>gi|528837521|ref|NC_021911.1| Rhizobium etli bv. mimosae str. Mim1 plasmid pRetMIM1f, complete sequence
+>gi|529218781|ref|NC_021984.1| Salmonella enterica subsp. enterica serovar Pullorum str. S06004, complete genome
+>gi|529222834|ref|NC_021985.1| Streptomyces collinus Tu 365, complete genome
+>gi|529229840|ref|NC_021986.1| Streptomyces collinus Tu 365 plasmid pSCO2, complete sequence
+>gi|529235720|ref|NC_022000.1| Proteus mirabilis BB2000, complete genome
+>gi|529239176|ref|NC_022001.1| Streptomyces collinus Tu 365 plasmid pSCO1, complete sequence
+>gi|530313872|ref|NC_022045.1| Listeria monocytogenes strain N1-011A plasmid, complete sequence
+>gi|530314038|ref|NC_022046.1| Listeria monocytogenes strain J1776 plasmid, complete sequence
+>gi|530314110|ref|NC_022047.1| Listeria monocytogenes strain J1817 plasmid, complete sequence
+>gi|530341448|ref|NC_022051.1| Listeria monocytogenes strain J1926 plasmid, complete sequence
+>gi|530547444|ref|NC_022084.1| Thermococcus litoralis DSM 5473, complete genome
+>gi|530779594|ref|NC_022093.1| Thermofilum sp. 1910b, complete genome
+>gi|530891924|ref|NC_022097.1| Treponema pedis str. T A4, complete genome
+>gi|532358222|ref|NC_022113.1| Staphylococcus aureus subsp. aureus 55/2053, complete genome
+>gi|532362211|ref|NC_022115.1| Rhodococcus erythropolis CCM2595, complete genome
+>gi|532437242|ref|NC_022125.1| Rhodococcus erythropolis CCM2595 plasmid pRECF1, complete sequence
+>gi|532438800|ref|NC_022126.1| Staphylococcus aureus subsp. aureus 55/2053 plasmid, complete sequence
+>gi|537435369|ref|NC_022221.1| Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. CDC1983-67, complete genome
+>gi|537441500|ref|NC_022222.1| Staphylococcus aureus subsp. aureus 6850, complete genome
+>gi|537459744|ref|NC_022226.1| Staphylococcus aureus subsp. aureus CN1, complete genome
+>gi|537462571|ref|NC_022227.1| Staphylococcus aureus subsp. aureus CN1 plasmid, complete sequence
+>gi|537462731|ref|NC_022228.1| Staphylococcus aureus subsp. aureus CN1 plasmid, complete sequence
+>gi|538344194|ref|NC_022234.1| Variovorax paradoxus B4 chromosome 2, complete sequence
+>gi|538346599|ref|NC_022236.1| Streptococcus constellatus subsp. pharyngis C232, complete genome
+>gi|538349851|ref|NC_022237.1| Streptococcus intermedius C270, complete genome
+>gi|538353400|ref|NC_022238.1| Streptococcus constellatus subsp. pharyngis C1050, complete genome
+>gi|538357775|ref|NC_022239.1| Streptococcus anginosus C238, complete genome
+>gi|538360566|ref|NC_022241.1| Salmonella enterica subsp. enterica serovar Bovismorbificans str. 3114 complete genome
+>gi|538369494|ref|NC_022244.1| Streptococcus anginosus C1051, complete genome
+>gi|538374242|ref|NC_022245.1| Streptococcus constellatus subsp. pharyngis C818, complete genome
+>gi|538379295|ref|NC_022246.1| Streptococcus intermedius B196, complete genome
+>gi|538392231|ref|NC_022247.1| Variovorax paradoxus B4 chromosome 1, complete sequence
+>gi|538397725|ref|NC_022248.1| Salmonella enterica subsp. enterica serovar Bovismorbificans str. 3114 plasmid pVIRBov complete sequence, complete genome
+>gi|541862390|ref|NC_022268.1| Serratia sp. ATCC 39006 genome
+>gi|541866813|ref|NC_022269.1| Vibrio campbellii ATCC BAA-1116 chromosome I, complete sequence
+>gi|541870142|ref|NC_022270.1| Vibrio campbellii ATCC BAA-1116 chromosome II, complete sequence
+>gi|541872144|ref|NC_022271.1| Vibrio campbellii ATCC BAA-1116 plasmid, complete sequence
+>gi|543941914|ref|NC_022349.1| Vibrio alginolyticus NBRC 15630 = ATCC 17749 chromosome 1, complete sequence
+>gi|543961847|ref|NC_022357.1| Sulfuricella denitrificans skB26 DNA, complete genome
+>gi|543966428|ref|NC_022358.1| Sulfuricella denitrificans skB26 plasmid pSCD DNA, complete genome
+>gi|543973209|ref|NC_022359.1| Vibrio alginolyticus NBRC 15630 = ATCC 17749 chromosome 2, complete sequence
+>gi|651853778|ref|NC_022360.1| Pseudomonas aeruginosa c7447m genome
+>gi|651859679|ref|NC_022361.1| Pseudomonas aeruginosa PAO581 genome
+>gi|545626530|ref|NC_022437.1| Pseudomonas fluorescens R124 plasmid pMP-R124, complete sequence
+>gi|545633528|ref|NC_022442.1| Staphylococcus aureus subsp. aureus SA957, complete genome
+>gi|545636471|ref|NC_022443.1| Staphylococcus aureus subsp. aureus SA40, complete genome
+>gi|549445179|ref|NC_022513.1| Ralstonia pickettii DTP0602 chromosome 1, complete sequence
+>gi|549449290|ref|NC_022514.1| Ralstonia pickettii DTP0602 chromosome 2, complete sequence
+>gi|549451945|ref|NC_022515.1| Ralstonia pickettii DTP0602 chromosome 3, complete sequence
+>gi|549452631|ref|NC_022516.1| Streptococcus suis YB51, complete genome
+>gi|549478129|ref|NC_022525.1| Salmonella enterica subsp. enterica serovar Thompson str. RM6836, complete genome
+>gi|549687642|ref|NC_022528.1| Vibrio nigripulchritudo str. SFn1 chromosome, complete genome
+>gi|549700897|ref|NC_022532.1| Streptococcus dysgalactiae subsp. equisimilis 167 DNA, complete genome
+>gi|549704410|ref|NC_022535.1| Rhizobium sp. IRBG74 circular chromosome, complete genome
+>gi|549707555|ref|NC_022536.1| Rhizobium sp. IRBG74 plasmid IRBL74_p, complete sequence
+>gi|549710672|ref|NC_022539.1| Xanthomonas fuscans subsp. fuscans str. 4834-R, plasmid pla, complete genome
+>gi|549710864|ref|NC_022540.1| Xanthomonas fuscans subsp. fuscans str. 4834-R, plasmid plb, complete genome
+>gi|549713031|ref|NC_022541.1| Xanthomonas fuscans subsp. fuscans str. 4834-R, chromosome, complete genome
+>gi|549717265|ref|NC_022542.1| Xanthomonas fuscans subsp. fuscans str. 4834-R, plasmid plc, complete genome
+>gi|549718281|ref|NC_022543.1| Vibrio nigripulchritudo str. SFn1 chromosome, complete genome
+>gi|549722728|ref|NC_022544.1| Salmonella enterica subsp. enterica serovar Typhimurium str. DT2 chromosome, complete genome
+>gi|549728080|ref|NC_022545.1| Rhizobium sp. IRBG74 linear chromosome, complete genome
+>gi|550899431|ref|NC_022569.1| Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 chromosome, complete genome
+>gi|550903929|ref|NC_022570.1| Salmonella enterica subsp. enterica serovar Typhimurium DT104 plasmid pDT104, complete genome
+>gi|552628837|ref|NC_022582.1| Streptococcus sp. I-P16, complete genome
+>gi|552737301|ref|NC_022584.1| Streptococcus sp. I-G2, complete genome
+>gi|651868701|ref|NC_022591.1| Pseudomonas aeruginosa PAO1-VE2 genome
+>gi|651874622|ref|NC_022594.1| Pseudomonas aeruginosa PAO1-VE13 genome
+>gi|554642795|ref|NC_022604.1| Staphylococcus aureus subsp. aureus Z172, complete genome
+>gi|554645846|ref|NC_022605.1| Staphylococcus aureus subsp. aureus Z172 plasmid pZ172_2, complete sequence
+>gi|554652311|ref|NC_022610.1| Staphylococcus aureus subsp. aureus Z172 plasmid pZ172_1, complete sequence
+>gi|556560056|ref|NC_022655.1| Streptococcus pneumoniae A026 genome
+>gi|556585673|ref|NC_022664.1| Spiribacter sp. UAH-SP71, complete genome
+>gi|556587607|ref|NC_022665.1| Streptococcus suis T15, complete genome
+>gi|556589855|ref|NC_022737.1| Staphylococcus pasteuri SP1, complete genome
+>gi|557220722|ref|NC_022738.1| Pseudomonas sp. VLB120, complete genome
+>gi|557225837|ref|NC_022739.1| Pseudomonas sp. VLB120 plasmid pSTY, complete sequence
+>gi|557682930|ref|NC_022785.1| Streptomyces rapamycinicus NRRL 5491 genome
+>gi|557820703|ref|NC_022792.1| Thermotoga elfii NBRC 107921 DNA, complete genome
+>gi|557830113|ref|NC_022795.1| Thermotoga hypogea NBRC 106472 DNA, complete genome
+>gi|558665962|ref|NC_022806.1| Pseudomonas aeruginosa PA1R, complete genome
+>gi|558672313|ref|NC_022808.1| Pseudomonas aeruginosa PA1, complete genome
+>gi|560133258|ref|NC_022899.1| Shigella dysenteriae 1617 plasmid pSLG231, complete sequence
+>gi|560135937|ref|NC_022900.1| Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023, complete genome
+>gi|560138247|ref|NC_022901.1| Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023 plasmid, complete sequence
+>gi|560138874|ref|NC_022902.1| Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023 plasmid, complete sequence
+>gi|560139514|ref|NC_022903.1| Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023 plasmid, complete sequence
+>gi|560153049|ref|NC_022910.1| Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023 plasmid, complete sequence
+>gi|560154719|ref|NC_022912.1| Shigella dysenteriae 1617, complete genome
+>gi|560160865|ref|NC_022913.1| Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023 plasmid, complete sequence
+>gi|563651606|ref|NC_022991.1| Salmonella enterica subsp. enterica serovar Agona str. 24249, complete genome
+>gi|563693166|ref|NC_022998.1| Spiroplasma apis B31, complete genome
+>gi|563696538|ref|NC_023001.1| Candidate division WWE3 bacterium RAAC2_WWE3_1, complete genome
+>gi|563700047|ref|NC_023002.1| Candidate division SR1 bacterium RAAC1_SR1_1, complete genome
+>gi|563706614|ref|NC_023003.1| delta proteobacterium BABL1 complete genome
+>gi|564949884|ref|NC_023019.1| Pseudomonas aeruginosa MTB-1, complete genome
+>gi|571026788|ref|NC_023033.1| Thermosynechococcus sp. NK55 genome
+>gi|608993055|ref|NC_023035.1| Spirochaeta sp. L21-RPul-D2, complete genome
+>gi|568136993|ref|NC_023064.1| Pseudomonas sp. TKP, complete genome
+>gi|568151185|ref|NC_023066.1| Pseudomonas aeruginosa LES431, complete genome
+>gi|568162877|ref|NC_023069.1| Sulfolobus acidocaldarius SUSAZ, complete genome
+>gi|568179884|ref|NC_023075.1| Pseudomonas monteilii SB3078, complete genome
+>gi|568185322|ref|NC_023076.1| Pseudomonas monteilii SB3101, complete genome
+>gi|568305979|ref|NC_023144.1| Rhodococcus pyridinivorans SB3094 plasmid, complete sequence
+>gi|568306339|ref|NC_023145.1| Rhodococcus pyridinivorans SB3094 plasmid, complete sequence
+>gi|568306739|ref|NC_023149.1| Pseudomonas aeruginosa SCV20265, complete genome
+>gi|568313041|ref|NC_023150.1| Rhodococcus pyridinivorans SB3094, complete genome
+>gi|568317838|ref|NC_023151.1| Thermotoga maritima MSB8, complete genome
+>gi|189485003|ref|NS_000191.1| Uncultured Termite group 1 bacterium phylotype Rs-D17, complete genome
+>gi|189485765|ref|NS_000192.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 plasmid pTGRD1 DNA, complete sequence
+>gi|189485775|ref|NS_000193.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 plasmid pTGRD2 DNA, complete sequence
+>gi|189485779|ref|NS_000194.1| Uncultured Termite group 1 bacterium phylotype Rs-D17 plasmid pTGRD3 DNA, complete sequence
+>gi|409248459|ref|NT_187069.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248461|ref|NT_187070.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248462|ref|NT_187071.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248463|ref|NT_187072.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248675|ref|NT_187073.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248756|ref|NT_187074.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248816|ref|NT_187075.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248904|ref|NT_187076.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249098|ref|NT_187077.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249099|ref|NT_187078.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249194|ref|NT_187079.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249195|ref|NT_187080.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249206|ref|NT_187081.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249357|ref|NT_187082.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249368|ref|NT_187083.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249396|ref|NT_187084.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249423|ref|NT_187085.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249433|ref|NT_187086.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249441|ref|NT_187087.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249475|ref|NT_187088.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249545|ref|NT_187089.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249552|ref|NT_187090.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249554|ref|NT_187091.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249667|ref|NT_187092.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249673|ref|NT_187093.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249695|ref|NT_187094.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249767|ref|NT_187095.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249768|ref|NT_187096.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249769|ref|NT_187097.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249775|ref|NT_187098.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249913|ref|NT_187099.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409249914|ref|NT_187100.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250027|ref|NT_187101.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250063|ref|NT_187102.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250470|ref|NT_187103.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250599|ref|NT_187104.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250600|ref|NT_187105.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250880|ref|NT_187106.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409250980|ref|NT_187107.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409251043|ref|NT_187108.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409251067|ref|NT_187109.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409251170|ref|NT_187110.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409251179|ref|NT_187111.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409246358|ref|NT_187112.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409246391|ref|NT_187113.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409246441|ref|NT_187114.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409246494|ref|NT_187115.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409246804|ref|NT_187116.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409246807|ref|NT_187117.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247064|ref|NT_187118.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247109|ref|NT_187119.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247156|ref|NT_187120.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247505|ref|NT_187121.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247533|ref|NT_187122.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247580|ref|NT_187123.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247664|ref|NT_187124.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247802|ref|NT_187125.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247806|ref|NT_187126.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409247873|ref|NT_187127.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248206|ref|NT_187128.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248210|ref|NT_187129.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248216|ref|NT_187130.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248355|ref|NT_187131.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248359|ref|NT_187132.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248361|ref|NT_187133.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248362|ref|NT_187134.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+>gi|409248365|ref|NT_187135.1| Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1, whole genome shotgun sequence, plasmid pSW82 complete sequence, contig 68
+>gi|433797275|ref|NT_187146.1| Sinorhizobium fredii HH103 plasmid pSfHH103d partial sequence, fragment 1
+>gi|433797276|ref|NT_187147.1| Sinorhizobium fredii HH103 plasmid pSfHH103d partial sequence, fragment 2
+>gi|433797277|ref|NT_187148.1| Sinorhizobium fredii HH103 plasmid pSfHH103d partial sequence, fragment 3
+>gi|433797278|ref|NT_187149.1| Sinorhizobium fredii HH103 plasmid pSfHH103d partial sequence, fragment 4
+>gi|433797279|ref|NT_187150.1| Sinorhizobium fredii HH103 plasmid pSfHH103d partial sequence, fragment 5
+>gi|531697286|ref|NT_187151.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 2, complete sequence
+>gi|531704995|ref|NT_187152.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 3, complete sequence
+>gi|531824756|ref|NT_187153.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 5, complete sequence
+>gi|531722012|ref|NT_187154.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 6, complete sequence
+>gi|531731018|ref|NT_187155.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 8, complete sequence
+>gi|531736043|ref|NT_187156.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 10, complete sequence
+>gi|531745825|ref|NT_187157.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 11, complete sequence
+>gi|531825622|ref|NT_187158.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 13, complete sequence
+>gi|531772445|ref|NT_187159.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 14, complete sequence
+>gi|531779548|ref|NT_187160.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 16, complete sequence
+>gi|531826708|ref|NT_187161.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 18, complete sequence
+>gi|531416805|ref|NT_187162.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 17, complete sequence
+>gi|531795416|ref|NT_187163.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 1, complete sequence
+>gi|531827536|ref|NT_187164.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 4, complete sequence
+>gi|531805210|ref|NT_187165.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 7, complete sequence
+>gi|531815728|ref|NT_187166.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 9, complete sequence
+>gi|531818987|ref|NT_187167.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 12, complete sequence
+>gi|531828723|ref|NT_187168.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 15, complete sequence
+>gi|531821322|ref|NT_187169.1| Sinorhizobium fredii USDA 257 plasmid pUSDA257 fragment 19, complete sequence
