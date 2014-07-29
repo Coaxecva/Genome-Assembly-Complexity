@@ -1,8 +1,8 @@
 export K=31
-export DATADIR=./test
+export DATADIR=../../test
 export OUTPUT=abyss${K}
 
-abyss-pe  k=$K name=$OUTPUT  lib="pe350" \
+../abyss-pe  k=$K name=$OUTPUT  lib="pe350" \
     pe350='${DATADIR}/PE-350.1.fastq ${DATADIR}/PE-350.2.fastq'
 
 
