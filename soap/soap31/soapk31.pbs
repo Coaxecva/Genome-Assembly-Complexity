@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+#PBS -q express
+#PBS -j oe
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=1:00:00
+cd $PBS_O_WORKDIR
+
+module load soapdenovo
+export K=31
+
+SOAPdenovo-63mer all -p 12 -s soap.config -o soap${K} -K $K 
+
+
