@@ -6,7 +6,7 @@ mypath = sys.argv[1]
 onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
 
 for f in onlyfiles:
-	str = sys.argv[1] + f
+	str = mypath + f
 	cmd = "head -n 1 " + str
 	#print genome name
 	os.system(cmd)
