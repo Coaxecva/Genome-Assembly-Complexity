@@ -9,3 +9,20 @@ q1=../../test/PE-350.1.fastq
 q2=../../test/PE-350.2.fastq
 
 
+The final rank
+*******************************
+ Scaffold number                  6
+ In-scaffold contig number        105
+ Total scaffold length            431529
+ Average scaffold length          71921
+ Filled gap number                56
+ Longest scaffold                 180666
+ Scaffold and singleton number    17
+ Scaffold and singleton length    433641
+ Average length                   25508
+ N50                              174866
+ N90                              47117
+ Weak points                      0
+*******************************
+Done with 6 scaffolds, 0 gaps finished, 114 gaps overall.
+
