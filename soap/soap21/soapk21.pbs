@@ -7,6 +7,6 @@
 #cd $PBS_O_WORKDIR
 
 #module load soapdenovo
-export K=31
+export K=21
 
 ./SOAPdenovo-63mer all -p 12 -s ./soap${K}/soap.config -o soap${K} -K $K 
